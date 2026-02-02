@@ -1,0 +1,29 @@
+<map id="GpmKbdBacklight" name="GpmKbdBacklight">
+<area shape="rect" id="Node000001" title=" " alt="" coords="177,485,315,511"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="153,389,339,415"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,429,249,485,243,485,243,429"/>
+<area shape="rect" id="Node000003" href="$structGpmButton.html" title=" " alt="" coords="53,293,149,319"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,324,191,363,229,387,226,392,189,368,129,329"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,197,148,223"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="86,235,100,292,95,294,80,237"/>
+<area shape="rect" id="Node000005" href="$structGpmControl.html" title=" " alt="" coords="196,293,296,319"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="249,333,249,389,243,389,243,333"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="173,197,319,223"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="249,237,249,293,243,293,243,237"/>
+<area shape="rect" id="Node000007" href="$structGpmIdle.html" title=" " alt="" coords="342,293,419,319"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="357,330,306,368,268,391,265,387,303,363,354,325"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="343,197,466,223"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="401,237,386,294,381,292,396,235"/>
+<area shape="rect" id="Node000009" href="$structEggIdletime.html" title=" " alt="" coords="216,101,316,127"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="290,134,338,171,381,195,378,199,335,176,287,138"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="169,5,315,31"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="251,43,266,100,260,102,246,45"/>
+<area shape="rect" id="Node000011" href="$structGpmLoad.html" title=" " alt="" coords="363,101,447,127"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="407,141,407,197,402,197,402,141"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="339,5,470,31"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="407,45,407,101,402,101,402,45"/>
+<area shape="rect" id="Node000013" href="$structGpmSession.html" title=" " alt="" coords="495,101,597,127"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="519,136,424,199,421,195,516,132"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="494,5,643,31"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="565,45,551,102,546,100,560,43"/>
+</map>

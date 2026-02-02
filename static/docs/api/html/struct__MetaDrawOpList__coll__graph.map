@@ -1,0 +1,17 @@
+<map id="_MetaDrawOpList" name="_MetaDrawOpList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,130,143,155"/>
+<area shape="rect" id="Node000002" href="$struct__MetaDrawOp.html" title=" " alt="" coords="303,455,418,480"/>
+<area shape="poly" id="edge8_Node000002_Node000001" title=" " alt="" coords="71,170,63,224,61,294,66,331,75,367,90,400,112,429,124,437,143,445,192,455,303,463,303,468,191,460,141,450,122,442,108,433,85,403,70,368,60,332,56,294,58,223,66,169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,461,235,450,213,442,199,433,179,405,171,377,171,350,176,323,181,296,183,268,179,240,165,209,152,193,135,179,100,158,103,153,138,174,155,189,170,207,184,238,188,268,186,297,181,324,177,351,177,377,184,402,203,429,216,437,237,445,290,456"/>
+<area shape="rect" id="Node000003" href="$struct__MetaColorSpec.html" title=" " alt="" coords="167,130,293,155"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,169,253,316,265,390,278,429,293,443,311,452,309,457,289,447,273,432,260,391,248,317,230,169"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="281,126,307,129,316,134,320,143,315,152,302,158,267,158,267,153,301,152,311,148,315,143,312,138,306,134,280,131"/>
+<area shape="rect" id="Node000004" href="$struct__MetaDrawSpec.html" title=" " alt="" coords="427,130,553,155"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="483,169,368,455,363,453,478,167"/>
+<area shape="rect" id="Node000005" href="$structPosToken.html" title=" " alt="" coords="449,5,531,31"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="493,45,493,130,487,130,487,45"/>
+<area shape="rect" id="Node000006" href="$struct__MetaAlphaGradientSpec.html" title=" " alt="" coords="578,130,765,155"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="674,169,669,225,654,296,642,334,625,370,603,404,576,433,549,446,509,455,419,466,418,460,508,450,547,441,572,429,599,401,620,368,637,332,649,295,663,224,668,169"/>
+<area shape="rect" id="Node000007" href="$struct__MetaGradientSpec.html" title=" " alt="" coords="789,130,938,155"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="865,170,858,226,841,298,827,336,809,372,785,405,755,433,737,440,705,446,615,456,418,467,418,462,614,451,705,441,736,435,753,428,781,402,804,369,822,334,836,297,853,225,860,169"/>
+</map>

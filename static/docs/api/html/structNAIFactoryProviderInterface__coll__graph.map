@@ -1,0 +1,19 @@
+<map id="NAIFactoryProviderInterface" name="NAIFactoryProviderInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="51,404,255,429"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,293,216,333"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,345,151,403,146,405,122,347"/>
+<area shape="rect" id="Node000003" href="$structNADataBoxed.html" title=" " alt="" coords="240,301,352,326"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="270,336,171,406,168,402,267,332"/>
+<area shape="rect" id="Node000004" href="$structNABoxed.html" title=" " alt="" coords="174,197,255,223"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="234,232,289,299,285,302,230,235"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="147,101,282,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="217,141,217,197,212,197,212,141"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="172,5,257,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="217,45,217,101,212,101,212,45"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="280,197,445,223"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="350,236,306,302,301,299,345,233"/>
+<area shape="rect" id="Node000008" href="$structNADataDef.html" title=" " alt="" coords="310,101,405,127"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="361,140,365,197,359,197,356,141"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="429,101,545,127"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="471,139,434,175,392,200,389,195,430,171,468,135"/>
+</map>

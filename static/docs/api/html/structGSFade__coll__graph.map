@@ -1,0 +1,30 @@
+<map id="GSFade" name="GSFade">
+<area shape="rect" id="Node000001" title=" " alt="" coords="38,313,109,339"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="15,217,131,243"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,257,76,313,71,313,71,257"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,101,165,127"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,141,77,217,72,217,80,140"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="27,5,144,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="88,45,88,101,83,101,83,45"/>
+<area shape="rect" id="Node000005" href="$structMateRRScreen.html" title=" " alt="" coords="179,5,296,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="195,38,159,57,126,80,100,103,96,99,123,76,156,52,193,34"/>
+<area shape="rect" id="Node000007" href="$structScreenInfo.html" title=" " alt="" coords="448,101,539,127"/>
+<area shape="poly" id="edge18_Node000007_Node000005" title=" " alt="" coords="283,33,463,99,461,104,281,38"/>
+<area shape="rect" id="Node000006" href="$structMateRRScreenPrivate.html" title=" " alt="" coords="156,217,319,243"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="235,204,235,31,240,31,240,204"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="435,121,375,131,345,140,316,153,294,168,275,185,247,219,243,215,271,182,291,163,313,148,343,135,374,126,434,116"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="349,313,467,339"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="486,140,445,244,415,314,411,312,440,242,481,138"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="540,429,639,455"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="552,113,663,122,713,132,732,140,746,149,773,179,792,211,803,243,807,277,803,310,791,343,772,376,746,407,728,418,701,426,639,438,638,433,700,421,726,413,742,403,768,373,786,341,798,309,802,277,798,245,787,213,769,182,742,153,730,144,711,137,662,127,552,119"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="532,217,641,243"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="554,116,587,127,602,136,614,149,620,160,621,171,614,194,600,219,595,216,610,192,616,171,615,162,610,152,598,141,584,132,552,121"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="392,302,379,261,378,239,383,216,401,186,424,160,472,125,475,129,428,164,405,189,388,218,383,239,385,260,398,300"/>
+<area shape="poly" id="edge14_Node000008_Node000008" title=" " alt="" coords="482,317,493,326,485,334,467,337,466,332,483,330,488,326,479,321"/>
+<area shape="poly" id="edge13_Node000009_Node000008" title=" " alt="" coords="421,350,438,382,454,403,473,415,495,424,540,435,539,440,494,430,471,420,450,407,433,385,417,353"/>
+<area shape="poly" id="edge16_Node000007_Node000009" title=" " alt="" coords="617,420,657,385,676,363,690,338,706,284,708,260,706,238,700,217,689,196,654,153,636,142,606,134,538,122,539,117,608,128,638,137,658,149,694,193,705,215,711,237,714,261,711,285,694,340,680,366,661,389,620,424"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="526,444,467,443,406,437,352,426,332,418,318,407,311,396,309,384,318,361,332,346,350,336,353,341,335,351,322,364,314,385,316,394,322,404,335,413,354,421,407,432,468,437,526,439"/>
+<area shape="poly" id="edge17_Node000007_Node000010" title=" " alt="" coords="532,213,510,195,500,178,494,159,490,127,496,126,499,158,505,176,514,192,536,209"/>
+<area shape="poly" id="edge15_Node000008_Node000010" title=" " alt="" coords="551,251,519,269,488,292,439,316,436,311,485,287,516,264,548,246"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="590,257,592,429,587,429,584,257"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="_MsdMediaKeysPlugin" name="_MsdMediaKeysPlugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="36,293,203,319"/>
+<area shape="rect" id="Node000002" href="$structMateSettingsPlugin.html" title=" " alt="" coords="5,197,153,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,234,117,292,112,294,87,237"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="178,197,391,223"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,232,141,295,138,291,251,227"/>
+<area shape="rect" id="Node000004" href="$struct__MsdMediaKeysManager.html" title=" " alt="" coords="193,101,377,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="287,141,287,197,282,197,282,141"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="169,5,400,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="287,45,287,101,282,101,282,45"/>
+</map>

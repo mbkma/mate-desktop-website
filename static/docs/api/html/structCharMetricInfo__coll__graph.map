@@ -1,0 +1,8 @@
+<map id="CharMetricInfo" name="CharMetricInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="25,101,143,127"/>
+<area shape="rect" id="Node000002" href="$structBBox.html" title=" " alt="" coords="5,5,61,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="32,44,32,61,37,76,47,89,61,99,58,103,44,93,32,79,27,61,26,44"/>
+<area shape="rect" id="Node000003" href="$struct__t__ligature.html" title=" " alt="" coords="89,5,180,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,44,108,79,94,102,89,100,103,76,121,42"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="194,8,203,11,207,18,198,27,180,30,180,24,196,22,201,18,199,15,193,13"/>
+</map>

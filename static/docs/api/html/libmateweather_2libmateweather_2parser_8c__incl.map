@@ -1,0 +1,37 @@
+<map id="parser.c" name="parser.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="824,5,897,31"/>
+<area shape="rect" id="Node000002" href="$weather-priv_8h.html" title=" " alt="" coords="352,79,468,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="824,28,482,81,481,76,823,22"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="494,233,553,258"/>
+<area shape="poly" id="edge18_Node000001_Node000011" title=" " alt="" coords="852,33,814,80,800,108,793,133,783,156,762,179,715,209,663,228,611,239,567,245,566,239,610,234,661,223,713,204,759,175,779,153,788,131,795,106,809,77,848,29"/>
+<area shape="rect" id="Node000014" href="$libmateweather_2libmateweather_2parser_8h.html" title=" " alt="" coords="823,79,898,104"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="863,31,863,65,858,65,858,31"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="875,152,1020,177"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="874,29,912,77,941,138,936,140,908,80,870,33"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="973,79,1044,104"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="886,28,973,70,971,75,883,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="587,152,660,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="445,101,577,145,575,150,443,107"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="685,152,749,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="462,101,672,149,672,150,671,155,671,155,461,107"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,152,76,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="352,105,90,154,89,149,351,100"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="100,152,168,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="366,107,182,154,181,149,365,101"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="192,152,308,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="385,106,290,149,288,144,383,102"/>
+<area shape="rect" id="Node000008" href="$weather_8h.html" title=" " alt="" coords="368,233,455,258"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="402,106,386,127,374,153,372,165,374,177,383,200,396,220,391,223,379,202,369,178,366,165,369,151,382,124,397,103"/>
+<area shape="rect" id="Node000010" href="$mateweather-location_8h.html" title=" " alt="" coords="383,152,562,177"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="422,103,455,140,451,143,418,106"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="323,313,500,339"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="414,258,414,299,409,299,409,258"/>
+<area shape="poly" id="edge13_Node000010_Node000008" title=" " alt="" coords="466,179,431,224,427,220,462,176"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="482,176,511,220,506,222,478,179"/>
+<area shape="rect" id="Node000012" href="$mateweather-timezone_8h.html" title=" " alt="" coords="678,225,894,265"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="519,175,698,219,697,225,518,180"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="735,313,837,339"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="789,266,789,299,783,299,783,266"/>
+<area shape="poly" id="edge16_Node000014_Node000012" title=" " alt="" coords="857,105,804,214,799,212,853,103"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="876,102,924,141,921,145,873,106"/>
+</map>

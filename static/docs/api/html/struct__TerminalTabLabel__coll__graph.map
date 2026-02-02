@@ -1,0 +1,13 @@
+<map id="_TerminalTabLabel" name="_TerminalTabLabel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="28,485,171,511"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,389,193,415"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,429,102,485,97,485,97,429"/>
+<area shape="rect" id="Node000003" href="$struct__TerminalScreen.html" title=" " alt="" coords="35,293,164,319"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,333,102,389,97,389,97,333"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="12,197,187,223"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="102,237,102,293,97,293,97,237"/>
+<area shape="rect" id="Node000005" href="$struct__TerminalProfile.html" title=" " alt="" coords="36,101,163,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="102,141,102,197,97,197,97,141"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="13,5,185,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="102,45,102,101,97,101,97,45"/>
+</map>

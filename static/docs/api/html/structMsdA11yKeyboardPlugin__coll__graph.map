@@ -1,0 +1,11 @@
+<map id="MsdA11yKeyboardPlugin" name="MsdA11yKeyboardPlugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="28,293,211,319"/>
+<area shape="rect" id="Node000002" href="$structMateSettingsPlugin.html" title=" " alt="" coords="5,197,153,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,234,117,292,112,294,87,237"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="178,197,407,223"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="261,232,142,295,139,291,258,227"/>
+<area shape="rect" id="Node000004" href="$structMsdA11yKeyboardManager.html" title=" " alt="" coords="193,101,393,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="295,141,295,197,290,197,290,141"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="169,5,416,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="295,45,295,101,290,101,290,45"/>
+</map>

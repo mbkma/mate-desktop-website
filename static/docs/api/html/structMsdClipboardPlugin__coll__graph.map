@@ -1,0 +1,14 @@
+<map id="MsdClipboardPlugin" name="MsdClipboardPlugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="44,427,195,452"/>
+<area shape="rect" id="Node000002" href="$structMateSettingsPlugin.html" title=" " alt="" coords="5,331,153,356"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,368,117,425,112,428,87,370"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="178,331,375,356"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,365,140,429,137,424,244,361"/>
+<area shape="rect" id="Node000004" href="$structMsdClipboardManager.html" title=" " alt="" coords="193,235,361,260"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="279,274,279,330,274,330,274,274"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="169,139,384,164"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="279,178,279,234,274,234,274,178"/>
+<area shape="rect" id="Node000006" href="$struct__List.html" title=" " alt="" coords="251,14,303,39"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="279,53,279,139,274,139,274,53"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="318,13,326,18,329,27,327,34,321,39,303,42,303,36,319,34,323,31,324,27,322,21,315,18"/>
+</map>

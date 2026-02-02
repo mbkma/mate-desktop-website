@@ -1,0 +1,25 @@
+<map id="CactTreeModel" name="CactTreeModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="155,485,274,511"/>
+<area shape="rect" id="Node000002" href="$struct__CactTreeModelPrivate.html" title=" " alt="" coords="129,389,300,415"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,429,217,485,212,485,212,429"/>
+<area shape="rect" id="Node000003" href="$structBaseWindow.html" title=" " alt="" coords="229,101,336,127"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="286,141,284,185,279,242,267,305,246,367,230,390,225,387,242,364,262,304,274,241,279,184,280,140"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="351,197,510,223"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="288,139,294,157,305,171,326,187,352,197,350,202,324,191,301,175,289,159,283,141"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="58,197,225,223"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="223,134,187,153,165,176,150,199,145,196,161,172,184,149,221,129"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="402,191,382,175,357,153,311,129,313,124,360,148,386,171,405,187"/>
+<area shape="rect" id="Node000005" href="$structBaseApplication.html" title=" " alt="" coords="547,101,674,127"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="581,136,508,176,458,200,455,195,505,171,578,131"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="542,5,722,31"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="629,45,616,102,611,101,624,43"/>
+<area shape="rect" id="Node000007" href="$structBaseBuilder.html" title=" " alt="" coords="402,101,502,127"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="452,141,447,174,438,198,433,196,441,173,447,140"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="365,5,518,31"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="447,44,453,101,448,101,442,45"/>
+<area shape="rect" id="Node000009" href="$structCactClipboard.html" title=" " alt="" coords="105,293,218,319"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="166,331,177,364,199,387,195,391,172,367,161,333"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="149,235,161,293,156,294,144,237"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="5,101,109,127"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="55,141,55,157,61,172,74,185,92,195,89,200,71,190,56,175,50,158,49,141"/>
+</map>

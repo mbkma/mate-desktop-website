@@ -1,0 +1,8 @@
+<map id="_InvestApplet" name="_InvestApplet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,116,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="85,101,189,127"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="53,44,51,61,55,76,68,89,86,99,83,104,65,94,50,79,45,61,48,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,90,105,56,78,33,81,29,109,53,130,87"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="143,5,274,31"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="201,45,181,79,155,103,152,99,177,76,197,42"/>
+</map>

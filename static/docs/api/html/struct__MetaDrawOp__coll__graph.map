@@ -1,0 +1,17 @@
+<map id="_MetaDrawOp" name="_MetaDrawOp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="528,392,643,417"/>
+<area shape="rect" id="Node000007" href="$struct__MetaDrawOpList.html" title=" " alt="" coords="743,392,880,417"/>
+<area shape="poly" id="edge8_Node000007_Node000001" title=" " alt="" coords="657,402,743,402,743,407,657,407"/>
+<area shape="rect" id="Node000002" href="$struct__MetaColorSpec.html" title=" " alt="" coords="218,112,345,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="358,116,396,118,435,124,472,137,506,159,530,185,549,216,563,249,574,283,584,346,587,391,581,392,579,347,568,284,558,251,545,218,526,188,502,163,470,142,433,129,395,123,358,121"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="253,97,262,89,281,85,298,88,308,94,310,104,305,113,301,111,305,103,303,97,296,93,281,91,264,94,257,101"/>
+<area shape="rect" id="Node000003" href="$struct__MetaDrawSpec.html" title=" " alt="" coords="218,365,345,391"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="358,382,528,397,527,402,358,387"/>
+<area shape="rect" id="Node000004" href="$structPosToken.html" title=" " alt="" coords="5,365,88,391"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="102,375,218,375,218,381,102,381"/>
+<area shape="rect" id="Node000005" href="$struct__MetaAlphaGradientSpec.html" title=" " alt="" coords="188,419,375,444"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="389,430,504,422,540,415,541,420,504,427,389,435"/>
+<area shape="rect" id="Node000006" href="$struct__MetaGradientSpec.html" title=" " alt="" coords="207,472,356,497"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="370,482,436,474,503,457,539,437,568,415,572,420,542,442,505,462,437,479,371,487"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="761,424,719,433,693,435,666,433,619,420,620,415,667,427,693,430,718,427,760,418"/>
+</map>

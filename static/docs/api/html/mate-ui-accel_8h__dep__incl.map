@@ -1,0 +1,9 @@
+<map id="mate&#45;ui&#45;accel.h" name="mate&#45;ui&#45;accel.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="69,5,193,31"/>
+<area shape="rect" id="Node000002" href="$mate-ui-accel_8c.html" title=" " alt="" coords="5,79,128,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,43,79,80,75,77,109,39"/>
+<area shape="rect" id="Node000003" href="$mate-ui_8h.html" title=" " alt="" coords="152,79,237,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,39,186,77,182,80,148,43"/>
+<area shape="rect" id="Node000004" href="$demo-app_8c.html" title=" " alt="" coords="145,152,244,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="197,118,197,152,192,152,192,118"/>
+</map>

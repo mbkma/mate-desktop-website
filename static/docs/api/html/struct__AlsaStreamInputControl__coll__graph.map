@@ -1,0 +1,22 @@
+<map id="_AlsaStreamInputControl" name="_AlsaStreamInputControl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="99,293,283,319"/>
+<area shape="rect" id="Node000002" href="$struct__AlsaStreamControl.html" title=" " alt="" coords="115,197,266,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,237,193,293,188,293,188,237"/>
+<area shape="rect" id="Node000003" href="$struct__MateMixerStreamControl.html" title=" " alt="" coords="227,101,419,127"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="285,135,255,153,226,176,203,199,200,195,223,172,252,148,283,130"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="361,197,551,223"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="352,132,441,195,438,199,348,137"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="225,389,463,415"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="339,376,321,127,326,127,345,375"/>
+<area shape="rect" id="Node000005" href="$struct__MateMixerStream.html" title=" " alt="" coords="371,293,517,319"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="423,330,358,391,355,387,420,326"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="455,236,448,293,443,293,450,236"/>
+<area shape="rect" id="Node000007" href="$struct__MateMixerDevice.html" title=" " alt="" coords="443,101,586,127"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="502,140,466,199,461,196,498,137"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="420,5,609,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="517,45,517,101,512,101,512,45"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="5,101,203,127"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="126,135,182,195,178,199,122,139"/>
+<area shape="rect" id="Node000010" href="$structAlsaControlData.html" title=" " alt="" coords="40,5,168,31"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="107,45,107,101,101,101,101,45"/>
+</map>

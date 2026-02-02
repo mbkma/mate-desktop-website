@@ -1,0 +1,9 @@
+<map id="_PulseDeviceProfile" name="_PulseDeviceProfile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="152,197,303,223"/>
+<area shape="rect" id="Node000002" href="$struct__MateMixerSwitchOption.html" title=" " alt="" coords="29,101,213,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,134,216,195,212,199,142,138"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,236,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,45,123,101,118,101,118,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="237,101,433,127"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="313,138,242,199,239,195,310,134"/>
+</map>

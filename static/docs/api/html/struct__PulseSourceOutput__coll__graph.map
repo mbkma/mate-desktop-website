@@ -1,0 +1,30 @@
+<map id="_PulseSourceOutput" name="_PulseSourceOutput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="303,389,455,415"/>
+<area shape="rect" id="Node000002" href="$struct__PulseStreamControl.html" title=" " alt="" coords="300,293,459,319"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="382,333,382,389,377,389,377,333"/>
+<area shape="rect" id="Node000003" href="$struct__MateMixerStreamControl.html" title=" " alt="" coords="409,197,601,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="466,231,437,249,411,272,390,295,386,292,407,269,434,245,463,227"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="543,293,733,319"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="534,228,623,291,620,295,530,233"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="407,485,645,511"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="521,472,503,223,508,223,527,471"/>
+<area shape="rect" id="Node000005" href="$struct__MateMixerStream.html" title=" " alt="" coords="553,389,699,415"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="605,426,540,487,537,483,602,422"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="637,332,630,389,625,389,632,332"/>
+<area shape="rect" id="Node000007" href="$struct__MateMixerDevice.html" title=" " alt="" coords="625,197,768,223"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="684,236,648,295,643,292,680,233"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="602,101,791,127"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="699,141,699,197,694,197,694,141"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="180,197,384,223"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="306,230,369,291,365,295,302,234"/>
+<area shape="rect" id="Node000010" href="$struct__PulseConnection.html" title=" " alt="" coords="40,101,177,127"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="137,133,198,171,252,195,249,200,195,176,134,137"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="5,5,188,31"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="102,44,110,101,105,101,97,44"/>
+<area shape="rect" id="Node000012" href="$struct__PulseMonitor.html" title=" " alt="" coords="225,101,339,127"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="285,141,285,197,279,197,279,141"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="213,5,373,31"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="292,45,286,101,281,101,287,44"/>
+<area shape="rect" id="Node000014" href="$struct__MateMixerAppInfo.html" title=" " alt="" coords="364,101,512,127"/>
+<area shape="poly" id="edge14_Node000009_Node000014" title=" " alt="" coords="411,137,349,176,305,200,303,195,346,171,408,132"/>
+</map>

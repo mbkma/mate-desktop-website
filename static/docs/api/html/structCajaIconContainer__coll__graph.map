@@ -1,0 +1,32 @@
+<map id="CajaIconContainer" name="CajaIconContainer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="485,925,626,951"/>
+<area shape="rect" id="Node000002" href="$struct__EelCanvas.html" title=" " alt="" coords="409,5,507,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="504,33,568,64,604,86,638,111,669,140,695,174,712,211,718,252,718,844,716,860,709,875,686,899,655,916,621,928,620,923,653,912,683,895,705,873,711,859,713,843,713,253,707,213,690,177,665,144,635,115,601,90,566,69,501,38"/>
+<area shape="rect" id="Node000003" href="$struct__EelCanvasItem.html" title=" " alt="" coords="239,241,365,267"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="465,44,468,82,466,129,455,177,445,199,431,219,401,241,366,252,365,247,399,236,427,215,440,196,450,175,461,128,463,82,460,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="291,229,281,191,276,145,280,97,288,74,301,53,319,41,345,32,409,21,410,27,347,38,321,46,305,57,293,76,286,98,281,145,287,190,296,228"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="381,245,392,254,384,262,366,265,365,260,381,258,387,254,378,249"/>
+<area shape="rect" id="Node000006" href="$structCajaIconCanvasItem.html" title=" " alt="" coords="121,337,277,363"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="249,275,224,292,210,315,204,338,199,336,205,313,220,289,246,270"/>
+<area shape="rect" id="Node000009" href="$structCajaIconRubberbandInfo.html" title=" " alt="" coords="485,337,666,363"/>
+<area shape="poly" id="edge12_Node000009_Node000003" title=" " alt="" coords="322,276,340,297,355,311,404,322,487,335,486,340,403,328,353,316,336,301,317,280"/>
+<area shape="rect" id="Node000012" href="$structCajaIconDndInfo.html" title=" " alt="" coords="331,337,460,363"/>
+<area shape="poly" id="edge17_Node000012_Node000003" title=" " alt="" coords="281,278,270,296,269,304,272,312,284,324,298,333,331,343,329,348,296,337,281,328,268,315,264,305,265,294,276,275"/>
+<area shape="rect" id="Node000004" href="$structCajaIconContainerDetails.html" title=" " alt="" coords="315,829,502,855"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="439,860,539,923,536,927,436,864"/>
+<area shape="rect" id="Node000005" href="$structCajaIcon.html" title=" " alt="" coords="196,433,275,459"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="235,472,226,548,220,647,223,742,230,779,243,804,253,812,270,818,316,829,314,834,269,823,251,816,239,807,225,780,218,742,214,647,221,547,229,472"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="211,375,233,432,228,434,206,376"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,241,215,267"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="110,280,112,297,119,312,133,325,151,335,149,340,130,330,114,315,107,298,105,281"/>
+<area shape="rect" id="Node000008" href="$structEelIRect.html" title=" " alt="" coords="73,5,147,31"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="113,45,113,241,107,241,107,45"/>
+<area shape="poly" id="edge11_Node000004_Node000009" title=" " alt="" coords="570,377,511,556,425,806,416,830,411,828,419,804,506,554,565,375"/>
+<area shape="rect" id="Node000010" href="$structEelDRect.html" title=" " alt="" coords="596,241,677,267"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="624,280,585,339,581,336,619,277"/>
+<area shape="rect" id="Node000011" href="$structStretchState.html" title=" " alt="" coords="67,433,169,459"/>
+<area shape="poly" id="edge14_Node000004_Node000011" title=" " alt="" coords="111,472,91,538,83,580,77,627,76,674,82,721,97,765,122,803,146,813,194,821,315,833,315,838,193,826,145,818,119,807,92,767,77,722,71,675,71,626,77,580,86,537,106,471"/>
+<area shape="poly" id="edge15_Node000004_Node000012" title=" " alt="" coords="399,377,411,829,406,829,393,377"/>
+<area shape="rect" id="Node000013" href="$structCajaDragInfo.html" title=" " alt="" coords="465,241,571,267"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="516,281,509,299,497,315,477,330,455,340,453,335,475,325,493,311,504,296,511,279"/>
+</map>

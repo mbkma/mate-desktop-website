@@ -1,0 +1,21 @@
+<map id="_PanelWidget" name="_PanelWidget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="267,101,378,127"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="327,197,491,223"/>
+<area shape="poly" id="edge7_Node000005_Node000001" title=" " alt="" coords="320,140,321,157,326,172,340,185,357,195,355,200,337,190,322,175,315,158,315,140"/>
+<area shape="rect" id="Node000002" href="$struct__AppletData.html" title=" " alt="" coords="303,5,406,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="334,42,327,56,322,79,323,101,318,101,317,79,321,54,330,40"/>
+<area shape="rect" id="Node000003" href="$struct__PanelBackground.html" title=" " alt="" coords="5,5,147,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,33,229,75,293,99,291,104,227,80,117,38"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="162,9,173,18,165,26,147,29,147,24,163,21,168,18,159,14"/>
+<area shape="rect" id="Node000004" href="$struct__PanelToplevel.html" title=" " alt="" coords="218,293,337,319"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="93,41,180,172,251,268,270,291,266,295,247,271,175,175,88,44"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="262,282,250,242,248,219,252,196,263,174,277,155,307,125,310,129,281,158,268,177,257,198,253,219,255,241,268,280"/>
+<area shape="poly" id="edge9_Node000005_Node000004" title=" " alt="" coords="329,286,362,267,385,245,401,222,405,225,389,248,366,271,331,291"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="365,230,332,249,307,272,288,295,284,291,303,268,329,245,363,226"/>
+<area shape="rect" id="Node000006" href="$struct__PanelFrame.html" title=" " alt="" coords="402,101,507,127"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="446,140,417,198,413,196,441,138"/>
+<area shape="rect" id="Node000007" href="$struct__AppletSizeHints.html" title=" " alt="" coords="462,5,594,31"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="524,45,515,63,500,80,379,105,378,100,497,75,510,60,519,43"/>
+<area shape="rect" id="Node000008" href="$struct__AppletSizeHintsAlloc.html" title=" " alt="" coords="618,5,782,31"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="679,42,650,63,617,80,555,97,505,100,455,99,391,104,379,106,378,100,390,99,455,94,505,95,555,91,615,75,648,58,676,38"/>
+</map>

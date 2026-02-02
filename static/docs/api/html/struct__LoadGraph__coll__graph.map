@@ -1,0 +1,13 @@
+<map id="_LoadGraph" name="_LoadGraph">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,197,104,223"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="119,200,127,203,131,210,122,219,104,222,104,216,120,214,125,210,123,208,117,205"/>
+<area shape="rect" id="Node000002" href="$struct__MultiloadApplet.html" title=" " alt="" coords="73,313,205,339"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="49,236,46,263,48,276,53,288,66,301,83,311,81,316,63,306,48,291,42,278,40,263,44,236"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,300,122,274,107,248,94,235,78,225,81,221,97,231,111,245,127,272,136,299"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="218,197,310,223"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="253,236,234,264,208,291,169,315,166,311,205,287,230,261,249,233"/>
+<area shape="rect" id="Node000004" href="$structLoadGraph.html" title=" " alt="" coords="218,101,310,127"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="267,141,267,197,261,197,261,141"/>
+<area shape="rect" id="Node000005" href="$structLoadGraphLabels.html" title=" " alt="" coords="197,5,331,31"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="267,45,267,101,261,101,261,45"/>
+</map>

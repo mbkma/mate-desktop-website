@@ -1,0 +1,10 @@
+<map id="ApplicationTile" name="ApplicationTile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,217,124,243"/>
+<area shape="rect" id="Node000002" href="$structNameplateTile.html" title=" " alt="" coords="5,121,124,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,161,67,217,62,217,62,161"/>
+<area shape="rect" id="Node000003" href="$struct__Tile.html" title=" " alt="" coords="101,5,154,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,38,71,56,65,72,62,90,65,121,59,121,57,90,59,71,66,53,86,34"/>
+<area shape="rect" id="Node000004" href="$struct__TileAction.html" title=" " alt="" coords="148,121,243,147"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="122,44,119,71,121,84,126,96,138,109,155,119,152,124,135,114,121,99,115,85,113,71,117,43"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="187,109,178,83,164,56,141,33,145,29,168,53,183,80,192,107"/>
+</map>

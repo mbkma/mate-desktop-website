@@ -1,0 +1,28 @@
+<map id="MateRRConfigPrivate" name="MateRRConfigPrivate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="605,197,765,223"/>
+<area shape="rect" id="Node000002" href="$structMateRRScreen.html" title=" " alt="" coords="482,101,600,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="572,132,632,171,669,195,666,199,629,176,569,137"/>
+<area shape="rect" id="Node000004" href="$structScreenInfo.html" title=" " alt="" coords="226,197,317,223"/>
+<area shape="poly" id="edge15_Node000004_Node000002" title=" " alt="" coords="496,134,305,200,304,195,494,129"/>
+<area shape="rect" id="Node000003" href="$structMateRRScreenPrivate.html" title=" " alt="" coords="468,313,630,339"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="545,300,539,127,544,127,551,299"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="331,212,390,222,421,231,450,244,464,254,473,265,493,287,529,311,526,315,490,291,469,268,461,258,448,249,419,236,389,227,330,217"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="54,409,172,435"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="247,234,232,248,197,293,165,339,122,410,117,408,160,336,192,290,228,245,244,230"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="106,525,205,551"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="213,220,148,232,121,240,102,249,77,272,58,294,45,317,36,340,25,393,14,459,9,482,9,490,14,500,27,509,50,517,107,528,106,534,49,522,25,514,10,503,4,492,3,481,9,458,20,392,31,338,41,314,54,291,73,268,99,244,119,235,147,227,212,215"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="237,313,346,339"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="251,234,243,248,238,268,243,288,254,301,267,311,264,315,250,305,239,291,232,268,238,246,246,232"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="97,398,84,357,83,335,88,312,99,293,113,276,148,249,188,230,225,218,227,223,190,235,151,253,117,280,103,296,93,314,88,335,90,356,102,396"/>
+<area shape="poly" id="edge11_Node000005_Node000005" title=" " alt="" coords="187,413,198,422,190,430,172,433,171,428,188,426,193,422,184,417"/>
+<area shape="poly" id="edge10_Node000006_Node000005" title=" " alt="" coords="125,447,129,458,154,524,149,526,124,460,120,449"/>
+<area shape="poly" id="edge13_Node000004_Node000006" title=" " alt="" coords="218,529,267,520,319,502,365,474,385,455,400,433,422,383,426,360,427,338,423,316,414,294,384,248,370,236,354,226,317,216,318,211,356,222,373,231,388,245,419,292,428,315,432,337,432,360,427,384,405,436,389,459,369,478,321,507,269,525,219,534"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="92,530,50,519,34,512,23,503,14,480,23,457,37,442,55,432,58,437,40,447,27,460,19,480,27,500,36,507,52,514,93,525"/>
+<area shape="poly" id="edge14_Node000004_Node000007" title=" " alt="" coords="285,300,271,223,276,223,290,299"/>
+<area shape="poly" id="edge12_Node000005_Node000007" title=" " alt="" coords="256,347,224,365,193,388,144,412,141,407,190,383,221,360,253,342"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="298,352,300,385,299,425,289,466,268,503,255,515,239,524,206,535,204,530,237,520,252,511,264,500,284,464,293,424,295,385,293,352"/>
+<area shape="rect" id="Node000008" href="$structMateRROutputInfo.html" title=" " alt="" coords="623,101,766,127"/>
+<area shape="poly" id="edge16_Node000001_Node000008" title=" " alt="" coords="694,141,689,197,683,197,689,140"/>
+<area shape="rect" id="Node000009" href="$structMateRROutputInfoPrivate.html" title=" " alt="" coords="600,5,788,31"/>
+<area shape="poly" id="edge17_Node000008_Node000009" title=" " alt="" coords="697,45,697,101,692,101,692,45"/>
+</map>

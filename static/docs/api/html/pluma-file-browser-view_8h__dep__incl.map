@@ -1,0 +1,19 @@
+<map id="pluma&#45;file&#45;browser&#45;view.h" name="pluma&#45;file&#45;browser&#45;view.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="229,5,375,45"/>
+<area shape="rect" id="Node000002" href="$pluma-file-browser-enum-types_8c.html" title=" " alt="" coords="5,93,151,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,53,128,96,126,91,239,48"/>
+<area shape="rect" id="Node000003" href="$pluma-file-browser-view_8c.html" title=" " alt="" coords="175,93,320,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="285,58,262,95,257,92,280,56"/>
+<area shape="rect" id="Node000004" href="$pluma-file-browser-widget_8c.html" title=" " alt="" coords="271,181,416,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="320,56,334,93,342,140,346,181,340,181,337,141,329,94,315,58"/>
+<area shape="rect" id="Node000005" href="$pluma-file-browser-widget_8h.html" title=" " alt="" coords="425,93,571,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="358,48,456,91,454,96,356,53"/>
+<area shape="poly" id="edge9_Node000005_Node000004" title=" " alt="" coords="453,142,378,184,376,179,451,138"/>
+<area shape="rect" id="Node000006" href="$pluma-file-browser-messages_8h.html" title=" " alt="" coords="440,181,585,221"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="506,146,512,181,507,182,501,147"/>
+<area shape="rect" id="Node000008" href="$pluma-file-browser-plugin_8c.html" title=" " alt="" coords="551,269,696,309"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="553,138,579,156,600,180,612,202,619,226,626,269,620,269,614,227,607,204,596,183,575,160,550,142"/>
+<area shape="rect" id="Node000007" href="$pluma-file-browser-messages_8c.html" title=" " alt="" coords="381,269,527,309"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="494,234,469,271,465,268,490,231"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="550,228,600,267,597,271,547,232"/>
+</map>

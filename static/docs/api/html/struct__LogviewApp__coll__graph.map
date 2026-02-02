@@ -1,0 +1,23 @@
+<map id="_LogviewApp" name="_LogviewApp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="145,677,253,703"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="121,581,276,607"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,621,201,677,196,677,196,621"/>
+<area shape="rect" id="Node000003" href="$struct__LogviewPrefs.html" title=" " alt="" coords="254,293,370,319"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="317,332,318,379,313,439,297,502,283,532,265,559,249,573,231,584,229,579,246,569,261,556,278,529,292,500,307,438,312,379,312,333"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="108,389,289,415"/>
+<area shape="poly" id="edge10_Node000010_Node000003" title=" " alt="" coords="288,329,268,345,214,391,210,387,265,341,284,325"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="231,197,393,223"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="315,237,315,293,309,293,309,237"/>
+<area shape="rect" id="Node000005" href="$struct__LogviewManager.html" title=" " alt="" coords="29,293,169,319"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="98,332,95,369,96,415,104,463,121,509,152,550,185,579,181,583,148,553,116,512,98,465,91,415,90,369,92,332"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="121,327,158,363,186,387,182,391,154,367,117,330"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,197,192,223"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="101,237,101,293,96,293,96,237"/>
+<area shape="rect" id="Node000007" href="$struct__LogviewLog.html" title=" " alt="" coords="45,101,152,127"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="101,141,101,197,96,197,96,141"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="23,5,175,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="101,45,101,101,96,101,96,45"/>
+<area shape="rect" id="Node000009" href="$struct__LogviewWindow.html" title=" " alt="" coords="131,485,266,511"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="201,525,201,581,196,581,196,525"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="201,429,201,485,196,485,196,429"/>
+</map>

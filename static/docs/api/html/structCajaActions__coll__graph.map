@@ -1,0 +1,12 @@
+<map id="CajaActions" name="CajaActions">
+<area shape="rect" id="Node000001" title=" " alt="" coords="32,389,131,415"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,293,157,319"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,333,84,389,79,389,79,333"/>
+<area shape="rect" id="Node000003" href="$structNAPivot.html" title=" " alt="" coords="116,197,191,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="138,235,92,295,88,291,134,232"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="103,101,230,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,141,161,174,158,197,153,197,156,173,161,140"/>
+<area shape="rect" id="Node000005" href="$structNATimeout.html" title=" " alt="" coords="18,5,113,31"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="59,44,45,103,41,138,43,173,60,241,79,292,74,294,55,243,37,174,36,138,39,102,54,43"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="90,38,156,99,152,103,86,42"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="CactClipboard" name="CactClipboard">
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,293,205,319"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="65,197,231,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,237,151,293,145,293,145,237"/>
+<area shape="rect" id="Node000003" href="$structBaseWindow.html" title=" " alt="" coords="220,101,327,127"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="232,135,202,153,177,176,158,199,154,196,173,172,198,149,229,130"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="310,197,469,223"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="267,140,266,157,272,172,289,188,311,198,308,203,286,192,267,175,261,158,262,140"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="365,190,324,153,290,129,293,125,327,149,368,186"/>
+<area shape="rect" id="Node000005" href="$structBaseApplication.html" title=" " alt="" coords="363,101,490,127"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="424,141,413,174,400,199,395,196,408,172,419,139"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="310,5,490,31"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="410,43,426,100,421,102,404,45"/>
+<area shape="rect" id="Node000007" href="$structBaseBuilder.html" title=" " alt="" coords="527,101,627,127"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="558,138,533,158,505,176,473,190,441,200,440,195,472,185,503,171,530,153,554,134"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="514,5,667,31"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="590,44,582,102,576,101,585,44"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="5,101,109,127"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="55,140,55,157,61,172,74,185,92,195,89,200,71,190,56,175,50,158,49,140"/>
+</map>

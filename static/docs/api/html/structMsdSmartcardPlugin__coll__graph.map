@@ -1,0 +1,11 @@
+<map id="MsdSmartcardPlugin" name="MsdSmartcardPlugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,293,197,319"/>
+<area shape="rect" id="Node000002" href="$structMateSettingsPlugin.html" title=" " alt="" coords="5,197,153,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,234,117,292,112,294,87,237"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="178,197,381,223"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,232,140,295,138,291,246,227"/>
+<area shape="rect" id="Node000004" href="$struct__MsdSmartcardManager.html" title=" " alt="" coords="189,101,369,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="282,141,282,197,277,197,277,141"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="166,5,393,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="282,45,282,101,277,101,277,45"/>
+</map>

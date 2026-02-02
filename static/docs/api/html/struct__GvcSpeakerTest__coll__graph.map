@@ -1,0 +1,18 @@
+<map id="_GvcSpeakerTest" name="_GvcSpeakerTest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,197,161,223"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,101,184,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,141,97,197,92,197,92,141"/>
+<area shape="rect" id="Node000003" href="$struct__MateMixerStream.html" title=" " alt="" coords="255,5,401,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,38,124,104,122,99,286,33"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="209,101,447,127"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="331,45,331,101,325,101,325,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="390,293,581,319"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="486,279,487,242,485,196,476,148,456,103,437,79,412,60,361,33,363,29,415,55,440,75,461,100,481,146,491,196,493,242,491,280"/>
+<area shape="rect" id="Node000005" href="$struct__MateMixerDevice.html" title=" " alt="" coords="535,197,678,223"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="582,233,502,295,499,291,579,229"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="523,101,712,127"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="617,141,611,197,605,197,612,140"/>
+<area shape="rect" id="Node000007" href="$struct__MateMixerStreamControl.html" title=" " alt="" coords="244,197,436,223"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="365,230,415,267,460,291,457,296,412,272,361,234"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="334,140,341,197,336,197,329,140"/>
+</map>

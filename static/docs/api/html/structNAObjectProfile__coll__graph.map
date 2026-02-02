@@ -1,0 +1,13 @@
+<map id="NAObjectProfile" name="NAObjectProfile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="161,293,285,319"/>
+<area shape="rect" id="Node000002" href="$structNAObjectId.html" title=" " alt="" coords="95,197,190,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,232,215,291,211,295,159,235"/>
+<area shape="rect" id="Node000003" href="$structNAObject.html" title=" " alt="" coords="32,101,115,127"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,136,136,196,132,199,88,139"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,141,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,45,76,101,71,101,71,45"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="139,101,287,127"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="201,139,175,175,155,199,151,195,171,172,196,136"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="214,197,391,223"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="286,235,235,295,231,291,282,232"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="CajaSearchEngineBeagle" name="CajaSearchEngineBeagle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,293,207,319"/>
+<area shape="rect" id="Node000002" href="$structCajaSearchEngine.html" title=" " alt="" coords="5,197,144,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,234,112,292,107,294,83,237"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="169,197,399,223"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,232,137,295,134,291,250,227"/>
+<area shape="rect" id="Node000004" href="$structCajaQuery.html" title=" " alt="" coords="239,101,329,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="287,141,287,197,281,197,281,141"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="216,5,352,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="287,45,287,101,281,101,281,45"/>
+</map>

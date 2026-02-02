@@ -1,0 +1,9 @@
+<map id="CajaLocationEntry" name="CajaLocationEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="119,197,259,223"/>
+<area shape="rect" id="Node000002" href="$structCajaEntry.html" title=" " alt="" coords="28,101,113,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,133,176,195,173,199,94,137"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,136,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,45,73,101,68,101,68,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="137,101,324,127"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="222,141,197,198,192,196,218,138"/>
+</map>

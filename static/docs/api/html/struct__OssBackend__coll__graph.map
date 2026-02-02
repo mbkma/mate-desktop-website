@@ -1,0 +1,22 @@
+<map id="_OssBackend" name="_OssBackend">
+<area shape="rect" id="Node000001" title=" " alt="" coords="143,313,251,339"/>
+<area shape="rect" id="Node000002" href="$struct__MateMixerBackend.html" title=" " alt="" coords="5,217,159,243"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,249,184,311,181,315,105,253"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="41,121,240,147"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,160,92,219,87,216,124,157"/>
+<area shape="rect" id="Node000004" href="$struct__MateMixerStream.html" title=" " alt="" coords="541,5,687,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="554,37,189,124,188,119,552,31"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="495,121,733,147"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="617,45,617,121,611,121,611,45"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="531,313,721,339"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="663,305,701,278,718,261,732,241,746,204,752,172,750,144,744,122,724,92,697,67,668,47,641,33,643,28,671,43,700,63,728,89,748,120,755,144,757,172,751,206,736,244,722,265,705,283,666,309"/>
+<area shape="rect" id="Node000006" href="$struct__MateMixerDevice.html" title=" " alt="" coords="363,217,505,243"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="471,246,603,311,601,316,469,251"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="281,121,470,147"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="392,157,429,216,424,219,388,160"/>
+<area shape="rect" id="Node000008" href="$struct__MateMixerStreamControl.html" title=" " alt="" coords="530,217,722,243"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="629,257,629,313,623,313,623,257"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="620,160,627,217,622,217,615,160"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="183,217,338,243"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="247,255,207,315,202,312,243,252"/>
+</map>

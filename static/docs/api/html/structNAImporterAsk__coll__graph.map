@@ -1,0 +1,25 @@
+<map id="NAImporterAsk" name="NAImporterAsk">
+<area shape="rect" id="Node000001" title=" " alt="" coords="294,505,415,531"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="267,409,442,435"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="357,449,357,505,352,505,352,449"/>
+<area shape="rect" id="Node000003" href="$structNAObjectItem.html" title=" " alt="" coords="211,293,325,319"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="286,328,326,384,346,407,342,411,322,387,281,332"/>
+<area shape="rect" id="Node000004" href="$structNAObjectId.html" title=" " alt="" coords="82,197,177,223"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="159,228,252,291,249,295,156,233"/>
+<area shape="rect" id="Node000005" href="$structNAObject.html" title=" " alt="" coords="32,101,115,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="89,137,125,196,120,199,85,140"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,5,141,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="76,45,76,101,71,101,71,45"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="139,101,287,127"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="197,139,166,175,143,199,139,195,162,172,193,136"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="201,197,367,223"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="282,236,273,294,267,293,277,236"/>
+<area shape="rect" id="Node000009" href="$structNAImporterAskUserParms.html" title=" " alt="" coords="349,293,539,319"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="434,333,398,387,372,411,368,407,394,384,430,330"/>
+<area shape="rect" id="Node000010" href="$structNAPivot.html" title=" " alt="" coords="407,197,481,223"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="447,237,447,293,441,293,441,237"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="381,101,507,127"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="447,141,447,197,441,197,441,141"/>
+<area shape="rect" id="Node000012" href="$structNATimeout.html" title=" " alt="" coords="397,5,491,31"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="447,45,447,101,441,101,441,45"/>
+</map>

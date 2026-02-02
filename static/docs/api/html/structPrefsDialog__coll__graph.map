@@ -1,0 +1,6 @@
+<map id="PrefsDialog" name="PrefsDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="25,5,122,31"/>
+<area shape="rect" id="Node000002" href="$struct__SensorsApplet.html" title=" " alt="" coords="12,101,135,127"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="28,39,11,56,8,66,11,76,23,89,39,99,36,104,20,93,7,79,3,66,7,53,24,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,90,101,76,104,66,101,56,85,32,89,29,106,54,109,66,106,78,98,92"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="mate&#45;sensors&#45;applet" name="mate&#45;sensors&#45;applet">
+<area shape="rect" id="node2" href="dir_4ea46aee8e82139a76cc7789769f27c5.html" title="lib" alt="" coords="121,27,159,52"/>
+<area shape="rect" id="node4" href="dir_575d91b9456cdb279c2a6f56408e7db9.html" title="sensors&#45;applet" alt="" coords="53,100,171,125"/>
+<area shape="poly" id="edge1" href="dir_000099_000218.html" alt="" coords="138,53,124,88,119,86,133,51"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000099_000218.html" title="1" alt="" coords="126,79,136,93"/>
+<area shape="rect" id="node3" href="dir_8865ffed7e3fc15c7168d78fa87d4e0a.html" title="plugins" alt="" coords="27,27,96,52"/>
+<area shape="poly" id="edge2" href="dir_000198_000218.html" alt="" coords="72,51,98,87,94,90,68,54"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000198_000218.html" title="16" alt="" coords="91,73,109,88"/>
+<area shape="rect" id="node5" href="dir_1a7ceb8b43f37d3610d8c76ebbb89cca.html" title="mate&#45;panel" alt="" coords="63,173,161,199"/>
+<area shape="poly" id="edge3" href="dir_000218_000144.html" alt="" coords="115,126,115,160,109,160,109,126"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000218_000144.html" title="4" alt="" coords="116,148,125,162"/>
+<area shape="rect" id="clust1" href="dir_99cc255424df5e73943ecfdc990b63b0.html" alt="" coords="16,16,352,136"/>
+</map>

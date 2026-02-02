@@ -1,0 +1,11 @@
+<map id="MsdKeyboardPlugin" name="MsdKeyboardPlugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="73,293,224,319"/>
+<area shape="rect" id="Node000002" href="$structMateSettingsPlugin.html" title=" " alt="" coords="5,197,153,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,232,142,292,138,295,94,235"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="177,197,373,223"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,233,166,295,163,291,247,229"/>
+<area shape="rect" id="Node000004" href="$structMsdKeyboardManager.html" title=" " alt="" coords="192,101,359,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="278,141,278,197,273,197,273,141"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="169,5,382,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="278,45,278,101,273,101,273,45"/>
+</map>

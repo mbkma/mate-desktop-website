@@ -1,0 +1,34 @@
+<map id="_PlumaQuickHighlightPlugin" name="_PlumaQuickHighlightPlugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,363,212,388"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,232,212,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,286,111,363,106,363,106,286"/>
+<area shape="rect" id="Node000003" href="$struct__PlumaView.html" title=" " alt="" coords="57,116,160,141"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,155,111,232,106,232,106,155"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="35,13,183,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="111,52,111,116,106,116,106,52"/>
+<area shape="rect" id="Node000005" href="$struct__PlumaDocument.html" title=" " alt="" coords="244,116,381,141"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="232,146,208,155,186,168,176,177,169,186,155,210,131,234,128,230,151,206,165,184,172,173,183,163,206,151,230,141"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="524,459,707,484"/>
+<area shape="poly" id="edge18_Node000006_Node000005" title=" " alt="" coords="312,156,304,254,306,304,315,337,334,362,358,384,412,418,472,441,529,456,528,461,470,447,410,423,354,388,330,366,310,340,301,305,299,254,307,155"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="699,239,926,265"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="396,132,463,142,531,163,549,173,562,185,574,196,591,206,647,224,704,237,703,242,645,230,589,210,571,200,558,188,546,178,529,168,462,148,395,137"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="351,239,571,265"/>
+<area shape="poly" id="edge15_Node000013_Node000005" title=" " alt="" coords="327,153,344,184,360,206,387,224,417,237,415,242,385,229,356,210,339,187,322,155"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="510,472,385,463,331,453,294,437,263,408,247,376,244,339,249,296,265,228,292,164,304,140,308,143,296,166,270,230,254,296,249,339,252,374,267,404,297,432,333,447,386,458,511,467"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="588,116,717,141"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="654,155,647,299,641,378,633,435,624,459,619,458,627,434,636,377,642,298,649,155"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="665,153,680,184,695,206,723,224,755,237,753,242,720,229,691,210,675,187,660,155"/>
+<area shape="poly" id="edge16_Node000013_Node000007" title=" " alt="" coords="575,137,507,148,480,156,464,167,456,184,453,203,459,239,454,240,448,203,450,182,460,164,478,151,506,143,574,132"/>
+<area shape="rect" id="Node000008" href="$struct__PlumaDocumentLoader.html" title=" " alt="" coords="689,363,870,388"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="749,397,637,461,634,456,746,392"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="810,279,795,339,787,363,782,361,790,338,805,278"/>
+<area shape="rect" id="Node000010" href="$struct__PlumaSmartCharsetConverter.html" title=" " alt="" coords="784,116,1007,141"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="892,156,883,183,868,210,851,227,833,241,830,237,848,224,864,206,878,180,887,154"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="784,5,1007,45"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="898,59,898,116,893,116,893,59"/>
+<area shape="rect" id="Node000012" href="$struct__PlumaDocumentSaver.html" title=" " alt="" coords="433,363,608,388"/>
+<area shape="poly" id="edge13_Node000006_Node000012" title=" " alt="" coords="544,396,606,457,602,460,540,399"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="481,274,494,295,510,331,520,362,515,363,505,333,489,297,476,277"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="895,363,1037,388"/>
+<area shape="poly" id="edge17_Node000006_Node000014" title=" " alt="" coords="918,395,772,437,670,461,669,456,771,432,916,390"/>
+</map>

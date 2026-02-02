@@ -1,0 +1,22 @@
+<map id="_TerminalWindow" name="_TerminalWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="68,197,206,223"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="39,293,235,319"/>
+<area shape="poly" id="edge4_Node000004_Node000001" title=" " alt="" coords="140,237,140,293,134,293,134,237"/>
+<area shape="rect" id="Node000005" href="$struct__TerminalScreenPopupInfo.html" title=" " alt="" coords="214,389,409,415"/>
+<area shape="poly" id="edge6_Node000005_Node000001" title=" " alt="" coords="175,227,203,245,240,280,271,321,309,388,304,391,266,324,236,284,199,249,172,232"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="143,485,326,511"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,484,102,474,72,460,46,441,24,416,7,385,3,355,9,326,24,292,41,268,62,248,108,221,110,225,66,252,45,271,29,295,14,327,8,355,13,383,28,413,49,437,75,455,104,469,134,479"/>
+<area shape="rect" id="Node000003" href="$struct__TerminalTabsMenu.html" title=" " alt="" coords="39,389,190,415"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="138,423,180,459,215,483,212,487,177,463,134,427"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="133,333,120,390,114,388,128,331"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="295,427,246,487,242,483,291,424"/>
+<area shape="rect" id="Node000006" href="$struct__TerminalScreen.html" title=" " alt="" coords="386,293,515,319"/>
+<area shape="poly" id="edge11_Node000002_Node000006" title=" " alt="" coords="448,333,441,366,435,392,423,416,400,444,370,464,337,478,303,488,302,483,335,473,368,459,397,440,419,413,430,390,436,365,443,332"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="416,328,388,345,326,391,323,387,385,340,413,323"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="363,197,538,223"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="453,237,453,293,448,293,448,237"/>
+<area shape="rect" id="Node000008" href="$struct__TerminalProfile.html" title=" " alt="" coords="387,101,514,127"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="453,141,453,197,448,197,448,141"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="364,5,536,31"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="453,45,453,101,448,101,448,45"/>
+</map>

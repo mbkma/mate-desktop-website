@@ -1,0 +1,24 @@
+<map id="_EomMetadataSidebar" name="_EomMetadataSidebar">
+<area shape="rect" id="Node000001" title=" " alt="" coords="255,757,424,783"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="232,661,447,687"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="342,701,342,757,337,757,337,701"/>
+<area shape="rect" id="Node000003" href="$struct__EomWindow.html" title=" " alt="" coords="211,565,321,591"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="271,604,275,621,283,636,296,649,312,659,309,663,293,653,279,639,270,623,266,605"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="135,469,291,495"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="228,505,262,564,257,566,224,508"/>
+<area shape="rect" id="Node000005" href="$struct__EomListStore.html" title=" " alt="" coords="29,313,143,339"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="99,350,125,396,161,443,192,467,189,471,157,447,120,398,94,352"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,217,167,243"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="89,257,89,313,83,313,83,257"/>
+<area shape="rect" id="Node000007" href="$struct__EomImage.html" title=" " alt="" coords="323,313,422,339"/>
+<area shape="poly" id="edge11_Node000002_Node000007" title=" " alt="" coords="387,350,391,362,410,440,422,504,423,534,418,566,408,600,391,639,380,653,366,663,363,659,376,649,386,636,403,598,413,565,417,534,417,504,405,441,386,363,382,352"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="352,350,342,364,332,386,329,407,325,426,311,447,291,462,269,472,267,467,288,457,307,443,320,424,324,406,327,385,337,361,348,347"/>
+<area shape="rect" id="Node000008" href="$struct__EomImagePrivate.html" title=" " alt="" coords="300,217,445,243"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="375,257,375,313,370,313,370,257"/>
+<area shape="rect" id="Node000009" href="$struct__EomTransform.html" title=" " alt="" coords="311,101,434,127"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="375,141,375,217,370,217,370,141"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="288,5,457,31"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="375,45,375,101,370,101,370,45"/>
+<area shape="rect" id="Node000011" href="$struct__EomJob.html" title=" " alt="" coords="168,313,247,339"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="210,352,211,445,214,469,208,469,206,445,204,352"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="terminal&#45;window.h" name="terminal&#45;window.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="395,5,537,31"/>
+<area shape="rect" id="Node000002" href="$terminal-actions_8c.html" title=" " alt="" coords="5,79,145,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,36,139,81,138,76,390,30"/>
+<area shape="rect" id="Node000003" href="$terminal-app_8c.html" title=" " alt="" coords="170,79,287,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="416,37,268,81,266,76,414,32"/>
+<area shape="rect" id="Node000004" href="$terminal-screen_8c.html" title=" " alt="" coords="311,79,447,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="443,41,395,81,392,76,440,37"/>
+<area shape="rect" id="Node000005" href="$terminal-tabs-menu_8h.html" title=" " alt="" coords="472,79,636,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="492,37,541,76,538,81,489,41"/>
+<area shape="rect" id="Node000007" href="$terminal-window_8c.html" title=" " alt="" coords="603,152,745,177"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="552,27,604,45,629,59,651,77,663,95,671,115,676,151,671,152,666,117,658,97,647,80,626,63,602,50,550,32"/>
+<area shape="rect" id="Node000008" href="$terminal-util_8c.html" title=" " alt="" coords="711,79,826,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="528,31,720,76,719,81,527,36"/>
+<area shape="rect" id="Node000006" href="$terminal-tabs-menu_8c.html" title=" " alt="" coords="415,152,578,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="538,116,508,154,504,150,534,113"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="587,109,656,149,653,154,584,113"/>
+</map>

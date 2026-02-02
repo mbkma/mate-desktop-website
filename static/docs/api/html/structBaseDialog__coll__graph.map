@@ -1,0 +1,18 @@
+<map id="BaseDialog" name="BaseDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="75,197,171,223"/>
+<area shape="rect" id="Node000002" href="$structBaseWindow.html" title=" " alt="" coords="193,101,300,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,134,168,153,147,176,131,199,127,196,142,172,165,149,197,130"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="291,197,450,223"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="241,140,239,157,245,172,266,190,292,201,290,206,263,194,240,175,234,158,235,140"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="342,191,322,175,297,153,263,129,266,125,300,149,326,171,345,187"/>
+<area shape="rect" id="Node000004" href="$structBaseApplication.html" title=" " alt="" coords="337,101,463,127"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="396,141,387,174,378,198,373,196,381,173,391,139"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="297,5,477,31"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="393,44,401,101,396,102,388,44"/>
+<area shape="rect" id="Node000006" href="$structBaseBuilder.html" title=" " alt="" coords="501,101,601,127"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="530,139,507,158,480,176,419,200,417,195,477,171,504,154,527,134"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="501,5,654,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="573,45,557,102,551,100,568,43"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="5,101,155,127"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="79,141,79,157,84,172,93,185,105,195,101,199,89,188,79,174,74,158,74,141"/>
+</map>

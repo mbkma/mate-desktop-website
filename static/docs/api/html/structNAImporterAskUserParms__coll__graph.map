@@ -1,0 +1,9 @@
+<map id="NAImporterAskUserParms" name="NAImporterAskUserParms">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,293,196,319"/>
+<area shape="rect" id="Node000002" href="$structNAPivot.html" title=" " alt="" coords="63,197,138,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,237,103,293,98,293,98,237"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="37,101,164,127"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,141,103,197,98,197,98,141"/>
+<area shape="rect" id="Node000004" href="$structNATimeout.html" title=" " alt="" coords="53,5,148,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,45,103,101,98,101,98,45"/>
+</map>

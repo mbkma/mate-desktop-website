@@ -1,0 +1,30 @@
+<map id="MateRRConfig" name="MateRRConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,313,155,339"/>
+<area shape="rect" id="Node000002" href="$structMateRRConfigPrivate.html" title=" " alt="" coords="19,197,179,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,237,101,313,95,313,96,236"/>
+<area shape="rect" id="Node000003" href="$structMateRRScreen.html" title=" " alt="" coords="202,101,319,127"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="224,135,191,153,161,176,122,199,119,195,158,171,189,148,222,130"/>
+<area shape="rect" id="Node000005" href="$structScreenInfo.html" title=" " alt="" coords="449,197,539,223"/>
+<area shape="poly" id="edge16_Node000005_Node000003" title=" " alt="" coords="303,129,467,195,465,200,301,134"/>
+<area shape="rect" id="Node000004" href="$structMateRRScreenPrivate.html" title=" " alt="" coords="179,313,342,339"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="258,300,258,127,263,127,263,300"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="436,219,387,230,339,249,318,264,299,282,271,315,267,311,295,278,314,260,337,244,385,225,435,214"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="362,409,479,435"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="471,234,439,269,424,291,414,314,409,340,410,366,419,408,414,410,405,367,404,339,409,313,420,288,435,266,467,230"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="553,525,651,551"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="553,209,670,217,723,227,744,235,758,245,786,275,805,307,816,339,820,373,816,406,804,439,785,472,758,503,741,514,714,522,652,534,651,529,713,517,739,509,755,499,780,469,799,437,810,405,814,373,811,341,800,309,781,278,755,249,741,240,722,233,669,222,553,214"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="553,313,662,339"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="554,212,587,223,601,233,614,245,621,262,622,281,615,314,609,313,617,281,616,264,609,248,598,237,584,228,552,217"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="427,395,487,222,492,224,432,397"/>
+<area shape="poly" id="edge12_Node000006_Node000006" title=" " alt="" coords="495,413,506,422,498,430,480,433,479,428,495,426,501,422,492,417"/>
+<area shape="poly" id="edge11_Node000007_Node000006" title=" " alt="" coords="351,441,330,460,321,481,323,490,329,500,344,510,365,518,424,529,492,534,553,535,552,540,491,539,424,535,364,523,341,515,325,503,318,492,316,480,325,457,348,437"/>
+<area shape="poly" id="edge14_Node000005_Node000007" title=" " alt="" coords="631,516,673,481,692,459,706,434,716,405,721,380,722,356,717,333,709,312,696,291,656,249,637,238,608,230,539,219,540,213,609,225,639,234,660,245,700,288,713,310,723,332,727,355,727,380,721,407,711,436,696,462,677,485,635,520"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="538,529,509,519,480,504,469,493,463,483,449,460,429,437,433,433,454,457,467,480,473,490,484,499,511,514,540,524"/>
+<area shape="poly" id="edge15_Node000005_Node000008" title=" " alt="" coords="538,312,509,291,499,274,493,256,491,223,496,223,499,255,504,272,513,288,541,307"/>
+<area shape="poly" id="edge13_Node000006_Node000008" title=" " alt="" coords="570,347,531,365,491,388,445,412,443,407,489,383,529,360,567,342"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="609,353,605,525,600,525,604,353"/>
+<area shape="rect" id="Node000009" href="$structMateRROutputInfo.html" title=" " alt="" coords="28,101,171,127"/>
+<area shape="poly" id="edge17_Node000002_Node000009" title=" " alt="" coords="102,141,102,197,97,197,97,141"/>
+<area shape="rect" id="Node000010" href="$structMateRROutputInfoPrivate.html" title=" " alt="" coords="5,5,193,31"/>
+<area shape="poly" id="edge18_Node000009_Node000010" title=" " alt="" coords="102,45,102,101,97,101,97,45"/>
+</map>

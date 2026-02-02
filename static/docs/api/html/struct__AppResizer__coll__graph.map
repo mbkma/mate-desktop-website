@@ -1,0 +1,29 @@
+<map id="_AppResizer" name="_AppResizer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="345,371,448,396"/>
+<area shape="rect" id="Node000002" href="$struct__AppShellData.html" title=" " alt="" coords="338,275,455,300"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="399,314,399,370,394,370,394,314"/>
+<area shape="rect" id="Node000003" href="$struct__Tile.html" title=" " alt="" coords="59,159,113,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,182,183,206,214,228,227,238,244,248,292,265,338,275,337,280,290,270,242,253,224,243,211,232,181,210,125,187"/>
+<area shape="rect" id="Node000004" href="$struct__TileAction.html" title=" " alt="" coords="5,275,100,300"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="48,188,35,197,24,209,19,229,24,250,41,273,37,276,20,252,13,229,20,207,31,193,45,184"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="57,261,80,184,85,185,62,262"/>
+<area shape="rect" id="Node000005" href="$structSlabSection.html" title=" " alt="" coords="347,159,446,184"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="399,198,399,274,394,274,394,198"/>
+<area shape="rect" id="Node000006" href="$structNewAppConfig.html" title=" " alt="" coords="477,159,594,184"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="534,199,525,227,508,253,484,269,457,280,455,275,481,265,504,249,521,224,529,197"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="811,159,937,184"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="828,191,728,222,609,253,456,279,455,274,608,248,726,217,826,186"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="800,275,948,300"/>
+<area shape="poly" id="edge13_Node000010_Node000007" title=" " alt="" coords="877,198,877,274,871,274,871,198"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="806,34,942,59"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="877,73,877,159,871,159,871,73"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="927,30,955,33,965,38,969,47,963,56,950,62,913,62,913,57,949,56,960,52,963,47,961,42,954,38,927,35"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="775,371,954,396"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="942,362,961,345,970,324,971,302,964,279,952,257,918,216,887,186,890,182,922,212,956,254,969,277,976,301,976,325,965,348,946,366"/>
+<area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="892,360,902,346,905,335,902,325,886,302,890,299,907,323,910,335,907,348,896,363"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="870,314,869,324,867,370,862,370,863,324,865,313"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="480,275,591,300"/>
+<area shape="poly" id="edge14_Node000009_Node000011" title=" " alt="" coords="549,311,563,329,581,344,614,356,663,365,775,376,775,381,662,371,613,362,578,349,559,333,545,314"/>
+<area shape="rect" id="Node000012" href="$structMenuLayoutValues.html" title=" " alt="" coords="615,275,760,300"/>
+<area shape="poly" id="edge15_Node000009_Node000012" title=" " alt="" coords="692,313,698,330,708,345,736,358,779,368,778,373,734,363,704,349,693,333,687,314"/>
+</map>

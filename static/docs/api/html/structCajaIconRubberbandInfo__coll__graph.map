@@ -1,0 +1,11 @@
+<map id="CajaIconRubberbandInfo" name="CajaIconRubberbandInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="239,186,421,211"/>
+<area shape="rect" id="Node000002" href="$struct__EelCanvasItem.html" title=" " alt="" coords="123,10,249,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,40,244,58,256,85,257,111,258,135,270,160,283,173,300,183,297,188,280,178,265,163,253,136,252,111,251,87,240,61,222,44"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="227,4,260,6,271,12,276,23,270,34,255,40,235,41,213,38,214,33,235,36,253,35,266,30,271,22,268,16,258,11,226,10"/>
+<area shape="rect" id="Node000003" href="$struct__EelCanvas.html" title=" " alt="" coords="79,186,176,211"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="110,34,59,45,40,52,28,61,13,86,8,110,13,134,28,160,51,179,79,190,77,195,48,184,24,164,8,136,3,110,8,84,24,57,37,48,58,40,108,29"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="146,174,154,161,167,126,176,91,183,35,188,36,181,92,172,128,159,163,150,177"/>
+<area shape="rect" id="Node000004" href="$structEelDRect.html" title=" " alt="" coords="397,10,479,35"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="442,49,436,105,427,136,411,164,394,178,375,188,373,183,391,174,407,160,422,134,431,104,437,49"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="_TerminalScreenContainer" name="_TerminalScreenContainer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,500,197,525"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,389,197,429"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,443,104,500,99,500,99,443"/>
+<area shape="rect" id="Node000003" href="$struct__TerminalScreen.html" title=" " alt="" coords="37,293,166,319"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,333,104,389,99,389,99,333"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="14,197,189,223"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="104,237,104,293,99,293,99,237"/>
+<area shape="rect" id="Node000005" href="$struct__TerminalProfile.html" title=" " alt="" coords="38,101,165,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="104,141,104,197,99,197,99,141"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="15,5,187,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="104,45,104,101,99,101,99,45"/>
+</map>

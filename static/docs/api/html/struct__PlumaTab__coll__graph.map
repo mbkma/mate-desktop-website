@@ -1,0 +1,39 @@
+<map id="_PlumaTab" name="_PlumaTab">
+<area shape="rect" id="Node000001" title=" " alt="" coords="153,540,245,565"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="130,444,269,469"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,483,202,540,197,540,197,483"/>
+<area shape="rect" id="Node000003" href="$struct__PlumaPrintJob.html" title=" " alt="" coords="47,348,167,373"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,386,119,403,128,418,144,432,163,442,160,446,141,436,124,422,114,405,108,388"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,232,172,257"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,271,108,347,103,348,90,272"/>
+<area shape="rect" id="Node000005" href="$struct__PlumaView.html" title=" " alt="" coords="36,116,139,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="90,155,91,231,86,232,85,155"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="13,13,161,38"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="90,52,90,116,85,116,85,52"/>
+<area shape="rect" id="Node000007" href="$struct__PlumaDocument.html" title=" " alt="" coords="332,116,469,141"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="319,138,227,149,188,157,161,168,150,176,145,186,131,210,105,234,101,230,127,206,140,183,146,173,158,163,186,152,226,144,318,133"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="467,444,649,469"/>
+<area shape="poly" id="edge20_Node000008_Node000007" title=" " alt="" coords="362,150,306,179,250,220,228,244,215,269,211,295,219,323,240,352,266,377,296,398,329,414,400,437,467,448,466,454,398,442,327,419,293,402,263,382,236,356,214,325,205,296,210,267,224,241,246,216,303,175,359,145"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="821,232,1047,257"/>
+<area shape="poly" id="edge11_Node000011_Node000007" title=" " alt="" coords="484,129,567,139,610,149,652,163,671,173,683,185,694,196,711,206,765,223,821,233,820,239,764,228,709,210,691,200,679,189,667,178,650,168,609,154,566,144,483,134"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="516,232,736,257"/>
+<area shape="poly" id="edge17_Node000015_Node000007" title=" " alt="" coords="423,149,457,179,498,206,531,219,565,229,563,235,529,224,495,210,454,183,420,153"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="543,433,514,391,495,369,474,350,458,343,443,341,427,337,413,326,400,302,391,277,385,224,389,175,395,141,400,142,394,176,391,223,397,275,405,300,417,322,430,333,444,336,459,338,477,346,499,366,518,388,547,430"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="613,116,743,141"/>
+<area shape="poly" id="edge21_Node000002_Node000009" title=" " alt="" coords="615,148,571,168,536,196,507,233,491,260,483,283,472,305,450,326,431,337,413,341,380,341,347,340,329,343,310,350,277,372,249,398,209,446,205,442,245,395,274,368,307,346,328,338,347,334,380,336,412,336,429,332,447,322,468,302,478,281,487,257,502,231,532,193,569,163,612,143"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="739,146,758,164,764,185,764,214,753,284,728,375,704,401,675,421,643,436,612,446,611,441,641,431,672,416,701,397,724,372,748,283,759,214,758,186,753,167,735,150"/>
+<area shape="poly" id="edge12_Node000011_Node000009" title=" " alt="" coords="754,143,790,163,800,175,804,186,807,196,816,206,839,220,864,229,862,234,836,225,812,210,803,199,799,188,795,177,787,167,752,148"/>
+<area shape="poly" id="edge18_Node000015_Node000009" title=" " alt="" coords="605,150,586,167,579,186,586,207,595,220,607,230,604,234,591,223,581,209,574,186,581,164,601,146"/>
+<area shape="rect" id="Node000010" href="$struct__PlumaDocumentLoader.html" title=" " alt="" coords="833,348,1014,373"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="891,382,846,403,793,423,721,439,650,450,649,445,720,434,792,417,844,399,889,377"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="934,271,927,348,922,347,929,271"/>
+<area shape="rect" id="Node000012" href="$struct__PlumaSmartCharsetConverter.html" title=" " alt="" coords="905,116,1128,141"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="1014,156,1005,183,989,210,975,224,959,234,956,230,972,219,985,206,1000,181,1009,154"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="905,5,1128,45"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="1019,59,1019,116,1014,116,1014,59"/>
+<area shape="rect" id="Node000014" href="$struct__PlumaDocumentSaver.html" title=" " alt="" coords="539,348,713,373"/>
+<area shape="poly" id="edge15_Node000008_Node000014" title=" " alt="" coords="612,386,569,445,564,442,607,383"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="629,271,629,348,623,348,623,271"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="320,348,463,373"/>
+<area shape="poly" id="edge19_Node000008_Node000016" title=" " alt="" coords="379,386,374,403,379,418,392,427,412,435,467,446,466,451,411,440,389,432,374,422,369,403,374,385"/>
+</map>

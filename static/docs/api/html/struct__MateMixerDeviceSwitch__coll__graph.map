@@ -1,0 +1,17 @@
+<map id="_MateMixerDeviceSwitch" name="_MateMixerDeviceSwitch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="133,389,319,415"/>
+<area shape="rect" id="Node000002" href="$struct__MateMixerSwitch.html" title=" " alt="" coords="50,293,191,319"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,326,215,387,211,391,142,330"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="27,197,214,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,237,123,293,118,293,118,237"/>
+<area shape="rect" id="Node000004" href="$struct__MateMixerSwitchOption.html" title=" " alt="" coords="29,101,213,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="123,141,123,197,118,197,118,141"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,5,236,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="123,45,123,101,118,101,118,45"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="215,293,447,319"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="310,330,241,391,237,387,307,326"/>
+<area shape="rect" id="Node000007" href="$struct__MateMixerDevice.html" title=" " alt="" coords="260,197,403,223"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="334,237,334,293,329,293,329,237"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="237,101,426,127"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="334,141,334,197,329,197,329,141"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="EelBackground" name="EelBackground">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,293,190,319"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="48,197,213,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,237,133,293,128,293,128,237"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="21,101,102,127"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,136,124,196,120,199,76,139"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,101,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="58,44,63,101,58,101,53,45"/>
+<area shape="rect" id="Node000005" href="$struct__MateBGCrossfade.html" title=" " alt="" coords="141,101,288,127"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="197,139,143,199,139,195,193,135"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="125,5,317,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="222,45,218,101,213,101,217,44"/>
+</map>

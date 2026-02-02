@@ -1,0 +1,22 @@
+<map id="MathDisplay" name="MathDisplay">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,677,241,703"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="114,581,265,607"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,621,192,677,187,677,187,621"/>
+<area shape="rect" id="Node000003" href="$structMathEquation.html" title=" " alt="" coords="133,485,245,511"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="192,525,192,581,187,581,187,525"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="110,389,269,415"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="192,429,192,485,187,485,187,429"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,293,152,319"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="97,328,131,363,167,387,165,391,128,367,93,331"/>
+<area shape="rect" id="Node000006" href="$structMPNumber.html" title=" " alt="" coords="31,197,126,223"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="81,237,81,293,76,293,76,237"/>
+<area shape="rect" id="Node000007" href="$structMathVariables.html" title=" " alt="" coords="235,293,349,319"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="271,330,204,391,200,387,267,326"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="227,197,389,223"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="306,236,297,294,291,293,301,236"/>
+<area shape="rect" id="Node000009" href="$structMpSerializer.html" title=" " alt="" coords="159,101,262,127"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="211,140,193,389,188,389,206,140"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="234,134,298,195,294,199,231,138"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="136,5,285,31"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="213,45,213,101,208,101,208,45"/>
+</map>

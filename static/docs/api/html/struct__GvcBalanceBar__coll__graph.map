@@ -1,0 +1,18 @@
+<map id="_GvcBalanceBar" name="_GvcBalanceBar">
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,293,157,319"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,197,180,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,237,95,293,90,293,90,237"/>
+<area shape="rect" id="Node000003" href="$struct__MateMixerStreamControl.html" title=" " alt="" coords="107,101,299,127"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,136,148,153,104,199,100,195,144,149,169,131"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="256,197,447,223"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="234,132,334,195,332,199,231,136"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="120,389,359,415"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="234,376,202,127,207,127,239,376"/>
+<area shape="rect" id="Node000005" href="$struct__MateMixerStream.html" title=" " alt="" coords="267,293,412,319"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="319,330,254,391,250,387,315,326"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="351,236,343,293,338,293,346,236"/>
+<area shape="rect" id="Node000007" href="$struct__MateMixerDevice.html" title=" " alt="" coords="324,101,467,127"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="387,140,359,198,354,196,382,138"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="301,5,490,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="398,45,398,101,393,101,393,45"/>
+</map>

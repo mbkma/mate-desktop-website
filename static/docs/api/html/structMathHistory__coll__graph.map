@@ -1,0 +1,23 @@
+<map id="MathHistory" name="MathHistory">
+<area shape="rect" id="Node000001" title=" " alt="" coords="28,677,131,703"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,581,153,607"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,621,82,677,77,677,77,621"/>
+<area shape="rect" id="Node000003" href="$structMathEquation.html" title=" " alt="" coords="107,485,219,511"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="146,523,92,583,88,579,142,519"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="104,389,263,415"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="181,429,168,486,163,485,175,427"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="339,293,486,319"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="381,328,299,368,227,392,226,387,297,363,379,323"/>
+<area shape="rect" id="Node000006" href="$structMPNumber.html" title=" " alt="" coords="371,197,465,223"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="419,237,416,293,411,293,414,236"/>
+<area shape="rect" id="Node000007" href="$structMathVariables.html" title=" " alt="" coords="190,293,305,319"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="234,331,193,391,189,388,230,328"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="185,197,347,223"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="264,237,252,294,247,293,258,235"/>
+<area shape="rect" id="Node000009" href="$structMpSerializer.html" title=" " alt="" coords="96,101,199,127"/>
+<area shape="poly" id="edge11_Node000002_Node000009" title=" " alt="" coords="114,136,95,149,78,166,66,186,61,209,61,499,67,544,77,580,72,582,61,545,55,500,55,208,61,184,74,163,92,145,111,131"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="153,140,185,389,179,390,148,141"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="174,133,253,195,250,199,171,137"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="73,5,222,31"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="150,45,150,101,145,101,145,45"/>
+</map>

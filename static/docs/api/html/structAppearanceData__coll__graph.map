@@ -1,0 +1,9 @@
+<map id="AppearanceData" name="AppearanceData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="211,212,341,237"/>
+<area shape="rect" id="Node000002" href="$struct__MateDesktopThumbnailFactory.html" title=" " alt="" coords="5,116,237,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,149,193,186,244,209,241,214,191,190,141,153"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,237,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,59,124,116,119,116,119,59"/>
+<area shape="rect" id="Node000004" href="$struct__MateThemeMetaInfo.html" title=" " alt="" coords="261,116,427,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="330,154,287,213,282,210,325,151"/>
+</map>

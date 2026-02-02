@@ -1,0 +1,13 @@
+<map id="BaseDialogClass" name="BaseDialogClass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="177,389,308,415"/>
+<area shape="rect" id="Node000002" href="$structBaseWindowClass.html" title=" " alt="" coords="32,293,173,319"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,324,227,387,224,391,129,328"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,197,200,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,237,105,293,100,293,100,237"/>
+<area shape="rect" id="Node000004" href="$structBaseBuilder.html" title=" " alt="" coords="53,101,153,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,141,105,197,100,197,100,141"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="26,5,179,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="105,45,105,101,100,101,100,45"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="197,293,381,319"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="280,332,251,390,246,388,275,330"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="NADataBoxedClass" name="NADataBoxedClass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,197,254,223"/>
+<area shape="rect" id="Node000002" href="$structNABoxedClass.html" title=" " alt="" coords="32,101,148,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,135,171,195,168,199,109,139"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,175,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,45,93,101,87,101,87,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="173,101,373,127"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="253,139,194,199,190,195,250,135"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="_Tile" name="_Tile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="26,5,79,31"/>
+<area shape="rect" id="Node000002" href="$struct__TileAction.html" title=" " alt="" coords="5,121,100,147"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="27,42,18,56,12,76,18,96,26,109,37,119,33,123,22,112,13,98,7,76,13,54,23,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,107,55,97,55,55,52,31,58,31,61,54,61,97,60,108"/>
+</map>

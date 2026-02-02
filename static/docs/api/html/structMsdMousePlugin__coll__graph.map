@@ -1,0 +1,11 @@
+<map id="MsdMousePlugin" name="MsdMousePlugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="53,293,185,319"/>
+<area shape="rect" id="Node000002" href="$structMateSettingsPlugin.html" title=" " alt="" coords="5,197,153,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,234,117,292,112,294,87,237"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="178,197,357,223"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,232,139,295,136,291,236,228"/>
+<area shape="rect" id="Node000004" href="$structMsdMouseManager.html" title=" " alt="" coords="193,101,342,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="270,141,270,197,265,197,265,141"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="170,5,365,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="270,45,270,101,265,101,265,45"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="MsdMprisPlugin" name="MsdMprisPlugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="57,293,182,319"/>
+<area shape="rect" id="Node000002" href="$structMateSettingsPlugin.html" title=" " alt="" coords="5,197,153,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,234,117,292,112,294,87,237"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="178,197,349,223"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,232,139,295,136,291,233,228"/>
+<area shape="rect" id="Node000004" href="$structMsdMprisManager.html" title=" " alt="" coords="192,101,335,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="266,141,266,197,261,197,261,141"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="169,5,357,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="266,45,266,101,261,101,261,45"/>
+</map>

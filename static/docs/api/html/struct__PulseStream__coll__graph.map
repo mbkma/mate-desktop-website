@@ -1,0 +1,22 @@
+<map id="_PulseStream" name="_PulseStream">
+<area shape="rect" id="Node000001" title=" " alt="" coords="320,293,431,319"/>
+<area shape="rect" id="Node000002" href="$struct__MateMixerStream.html" title=" " alt="" coords="203,197,348,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,230,365,291,361,295,296,234"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,293,244,319"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="241,231,210,249,142,295,139,291,207,244,239,227"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="187,485,377,511"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="279,472,273,223,278,223,284,472"/>
+<area shape="rect" id="Node000004" href="$struct__MateMixerDevice.html" title=" " alt="" coords="423,389,565,415"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="457,423,309,488,307,483,455,418"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="455,293,645,319"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="538,332,503,391,499,388,534,329"/>
+<area shape="rect" id="Node000006" href="$struct__MateMixerStreamControl.html" title=" " alt="" coords="47,389,239,415"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="166,422,211,459,256,483,253,488,209,464,163,427"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="132,331,144,389,138,390,127,333"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="373,197,530,223"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="436,235,408,271,388,295,384,291,404,268,432,232"/>
+<area shape="rect" id="Node000009" href="$struct__PulseConnection.html" title=" " alt="" coords="383,101,520,127"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="454,141,454,197,449,197,449,141"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="360,5,543,31"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="454,45,454,101,449,101,449,45"/>
+</map>

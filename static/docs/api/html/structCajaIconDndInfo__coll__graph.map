@@ -1,0 +1,11 @@
+<map id="CajaIconDndInfo" name="CajaIconDndInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="57,186,186,211"/>
+<area shape="rect" id="Node000002" href="$structCajaDragInfo.html" title=" " alt="" coords="5,10,112,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,49,49,103,52,133,62,160,74,174,89,183,86,188,70,178,58,163,47,134,43,103,49,48"/>
+<area shape="rect" id="Node000003" href="$struct__EelCanvasItem.html" title=" " alt="" coords="185,10,311,35"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,43,173,61,159,84,146,119,127,186,122,185,141,118,155,82,169,57,194,39"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="288,4,322,6,333,12,338,23,332,34,316,40,296,41,275,38,276,33,297,36,315,35,328,30,333,22,329,16,320,11,288,10"/>
+<area shape="rect" id="Node000004" href="$struct__EelCanvas.html" title=" " alt="" coords="235,186,333,211"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="244,49,236,102,238,132,246,161,255,173,267,184,263,188,251,177,242,163,233,133,231,102,238,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="344,182,360,173,373,160,387,134,392,110,387,86,373,61,360,49,345,39,311,29,313,24,348,35,364,44,377,58,392,84,397,110,392,136,377,163,363,177,347,187"/>
+</map>

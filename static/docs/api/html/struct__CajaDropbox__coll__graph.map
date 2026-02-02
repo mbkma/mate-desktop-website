@@ -1,0 +1,9 @@
+<map id="_CajaDropbox" name="_CajaDropbox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="140,197,253,223"/>
+<area shape="rect" id="Node000002" href="$structDropboxClient.html" title=" " alt="" coords="139,101,254,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,141,199,197,194,197,194,141"/>
+<area shape="rect" id="Node000003" href="$structDropboxCommandClient.html" title=" " alt="" coords="5,5,188,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,38,186,99,182,103,117,42"/>
+<area shape="rect" id="Node000004" href="$structCajaDropboxHookserv.html" title=" " alt="" coords="213,5,381,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="276,42,211,103,207,99,272,38"/>
+</map>

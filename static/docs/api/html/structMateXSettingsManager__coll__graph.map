@@ -1,0 +1,16 @@
+<map id="MateXSettingsManager" name="MateXSettingsManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="80,500,255,525"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="57,404,277,429"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,443,170,500,165,500,165,443"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,301,153,326"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,337,120,378,149,402,146,406,116,382,88,340"/>
+<area shape="rect" id="Node000004" href="$struct__XSettingsList.html" title=" " alt="" coords="22,197,137,223"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="82,237,82,301,77,301,77,237"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="151,200,160,204,163,210,155,219,137,221,136,216,153,214,158,210,156,208,149,205"/>
+<area shape="rect" id="Node000005" href="$struct__XSettingsSetting.html" title=" " alt="" coords="11,101,148,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="82,141,82,197,77,197,77,141"/>
+<area shape="rect" id="Node000006" href="$struct__XSettingsColor.html" title=" " alt="" coords="17,5,142,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="82,45,82,101,77,101,77,45"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="178,293,330,333"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="231,346,179,406,175,402,227,342"/>
+</map>

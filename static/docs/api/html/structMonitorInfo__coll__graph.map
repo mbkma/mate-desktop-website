@@ -1,0 +1,7 @@
+<map id="MonitorInfo" name="MonitorInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,121,146,147"/>
+<area shape="rect" id="Node000002" href="$structTiming.html" title=" " alt="" coords="5,5,72,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,44,38,71,46,96,58,109,72,119,69,123,54,113,42,99,33,72,32,45"/>
+<area shape="rect" id="Node000003" href="$structDetailedTiming.html" title=" " alt="" coords="96,5,219,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,45,144,71,130,99,111,123,107,119,126,96,139,69,148,43"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="gdict&#45;enum&#45;types.c" name="gdict&#45;enum&#45;types.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="213,5,361,31"/>
+<area shape="rect" id="Node000002" href="$gdict-enum-types_8h.html" title=" " alt="" coords="5,152,155,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,32,126,52,90,65,69,80,63,93,62,108,70,138,65,140,57,109,58,92,65,77,88,60,124,46,212,27"/>
+<area shape="rect" id="Node000004" href="$gdict-client-context_8h.html" title=" " alt="" coords="79,79,249,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="268,33,197,74,194,69,266,28"/>
+<area shape="rect" id="Node000005" href="$gdict-context_8h.html" title=" " alt="" coords="185,152,305,177"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="286,32,255,139,250,138,281,30"/>
+<area shape="rect" id="Node000006" href="$gdict-source_8h.html" title=" " alt="" coords="324,79,447,104"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="304,29,360,68,357,73,301,33"/>
+<area shape="rect" id="Node000008" href="$gdict-utils_8h.html" title=" " alt="" coords="471,79,577,104"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="326,28,473,72,472,77,324,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="242,225,345,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,175,247,218,245,223,113,180"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="179,102,224,141,220,145,175,106"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="255,176,280,213,276,216,251,179"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="380,106,310,215,306,212,376,103"/>
+<area shape="poly" id="edge10_Node000006_Node000005" title=" " alt="" coords="364,106,281,148,279,143,362,102"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="380,152,455,177"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="393,103,409,139,404,141,388,105"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="521,106,502,142,487,162,468,179,443,196,415,209,359,227,357,222,413,204,440,191,465,175,483,158,497,139,517,103"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="529,152,609,177"/>
+<area shape="poly" id="edge13_Node000008_Node000009" title=" " alt="" coords="534,103,557,139,552,142,529,106"/>
+</map>

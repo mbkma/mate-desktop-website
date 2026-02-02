@@ -1,0 +1,14 @@
+<map id="FooScrollArea" name="FooScrollArea">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,5,132,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="81,293,238,319"/>
+<area shape="poly" id="edge7_Node000002_Node000001" title=" " alt="" coords="58,43,38,69,20,101,9,137,8,155,11,173,20,194,33,213,65,247,102,273,135,291,132,296,99,277,62,251,28,217,15,196,6,174,3,155,4,136,15,99,34,66,54,40"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="35,101,118,127"/>
+<area shape="poly" id="edge5_Node000005_Node000001" title=" " alt="" coords="79,45,79,101,74,101,74,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,283,196,268,212,223,217,184,209,146,189,103,172,79,150,60,104,33,107,28,153,56,176,76,194,100,214,145,222,184,217,224,201,271,190,286"/>
+<area shape="rect" id="Node000003" href="$structAutoScrollInfo.html" title=" " alt="" coords="255,197,368,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="289,234,237,272,189,296,186,291,234,267,286,230"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="52,197,152,223"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="100,236,101,253,106,268,117,281,131,291,128,295,113,285,101,271,96,254,95,236"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="86,139,102,196,96,198,81,141"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="133,104,141,107,145,114,136,123,119,126,118,120,134,118,139,114,138,111,131,109"/>
+</map>

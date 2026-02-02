@@ -1,0 +1,17 @@
+<map id="panel&#45;typebuiltins.c" name="panel&#45;typebuiltins.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="247,5,397,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,86,108,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,33,109,85,108,80,283,28"/>
+<area shape="rect" id="Node000003" href="$panel-typebuiltins_8h.html" title=" " alt="" coords="133,86,285,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="307,33,238,80,235,76,304,29"/>
+<area shape="rect" id="Node000004" href="$panel-enums-gsettings_8h.html" title=" " alt="" coords="247,167,397,207"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="325,31,325,153,319,153,319,31"/>
+<area shape="rect" id="Node000006" href="$panel-enums_8h.html" title=" " alt="" coords="359,79,509,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="340,29,397,69,394,73,337,33"/>
+<area shape="rect" id="Node000007" href="$panel-types_8h.html" title=" " alt="" coords="533,79,682,119"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="364,28,526,72,525,78,363,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="349,255,407,280"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="338,205,364,242,360,245,333,208"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="411,121,359,160,356,156,408,117"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="434,119,425,160,411,208,394,244,389,242,406,206,420,159,428,118"/>
+</map>

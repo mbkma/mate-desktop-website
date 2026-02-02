@@ -1,0 +1,9 @@
+<map id="mate&#45;ui&#45;window.c" name="mate&#45;ui&#45;window.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="38,5,177,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,79,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,33,64,70,60,67,95,29"/>
+<area shape="rect" id="Node000003" href="$mate-ui-window_8h.html" title=" " alt="" coords="103,79,242,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,29,155,67,151,70,116,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="133,152,213,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="175,104,175,138,170,138,170,104"/>
+</map>

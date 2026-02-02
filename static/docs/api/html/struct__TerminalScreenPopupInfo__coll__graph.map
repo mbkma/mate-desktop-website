@@ -1,0 +1,22 @@
+<map id="_TerminalScreenPopupInfo" name="_TerminalScreenPopupInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,389,200,415"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="157,485,339,511"/>
+<area shape="poly" id="edge6_Node000003_Node000001" title=" " alt="" coords="118,425,132,443,150,459,174,473,199,483,198,488,171,478,146,463,128,446,114,428"/>
+<area shape="rect" id="Node000002" href="$struct__TerminalWindow.html" title=" " alt="" coords="43,581,181,607"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,570,83,511,81,484,85,457,96,415,101,416,90,458,87,484,88,510,105,568"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="14,677,210,703"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="115,621,115,677,109,677,109,621"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="221,521,198,537,130,583,127,579,194,532,218,516"/>
+<area shape="rect" id="Node000004" href="$struct__TerminalTabsMenu.html" title=" " alt="" coords="105,773,255,799"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="192,760,207,733,219,702,232,647,240,592,245,511,250,511,245,593,237,648,224,703,211,735,197,762"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="131,712,174,772,169,775,126,715"/>
+<area shape="rect" id="Node000006" href="$struct__TerminalScreen.html" title=" " alt="" coords="111,293,241,319"/>
+<area shape="poly" id="edge11_Node000001_Node000006" title=" " alt="" coords="161,331,114,391,110,387,157,328"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="200,328,209,341,226,381,238,422,249,485,244,486,233,423,221,383,204,344,195,331"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="89,197,263,223"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="179,237,179,293,173,293,173,237"/>
+<area shape="rect" id="Node000008" href="$struct__TerminalProfile.html" title=" " alt="" coords="113,101,239,127"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="179,141,179,197,173,197,173,141"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="90,5,262,31"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="179,45,179,101,173,101,173,45"/>
+</map>

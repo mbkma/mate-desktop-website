@@ -1,0 +1,17 @@
+<map id="_MsdRfkillPlugin" name="_MsdRfkillPlugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="54,581,185,607"/>
+<area shape="rect" id="Node000002" href="$structMateSettingsPlugin.html" title=" " alt="" coords="5,485,153,511"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,522,117,580,112,582,87,525"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="178,485,354,511"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,520,139,583,136,579,235,516"/>
+<area shape="rect" id="Node000004" href="$structMsdRfkillManager.html" title=" " alt="" coords="196,389,336,415"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="269,429,269,485,263,485,263,429"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="173,293,359,319"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="269,333,269,389,263,389,263,333"/>
+<area shape="rect" id="Node000006" href="$struct__CcRfkillGlib.html" title=" " alt="" coords="213,197,319,223"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="269,237,269,293,263,293,263,237"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="194,101,338,127"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="269,141,269,197,263,197,263,141"/>
+<area shape="rect" id="Node000008" href="$structrfkill__event.html" title=" " alt="" coords="218,5,314,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="269,45,269,101,263,101,263,45"/>
+</map>

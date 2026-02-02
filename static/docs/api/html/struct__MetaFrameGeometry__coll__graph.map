@@ -1,0 +1,9 @@
+<map id="_MetaFrameGeometry" name="_MetaFrameGeometry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="171,301,339,327"/>
+<area shape="rect" id="Node000002" href="$struct__MetaFrameBorders.html" title=" " alt="" coords="5,5,159,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,44,102,91,123,152,153,217,173,248,195,275,210,289,228,299,225,304,207,293,191,279,168,251,149,219,118,154,97,93,84,45"/>
+<area shape="rect" id="Node000003" href="$struct__MetaButtonSpace.html" title=" " alt="" coords="183,5,327,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="258,44,258,301,253,301,253,44"/>
+<area shape="rect" id="Node000004" href="$struct__MetaButtonLayout.html" title=" " alt="" coords="351,5,501,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="430,45,429,93,421,156,401,221,385,252,364,279,346,294,325,304,323,299,343,289,360,275,380,249,396,219,415,155,423,93,425,44"/>
+</map>

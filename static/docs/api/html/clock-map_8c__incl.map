@@ -1,0 +1,35 @@
+<map id="clock&#45;map.c" name="clock&#45;map.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="307,5,408,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,72,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="307,33,86,81,85,76,306,27"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="96,79,187,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="323,33,190,77,188,72,322,28"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="115,152,195,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="334,33,294,54,251,81,211,113,178,144,174,140,208,109,248,76,291,49,332,28"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="542,79,610,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="393,28,529,72,528,77,392,33"/>
+<area shape="rect" id="Node000006" href="$clock_8h.html" title=" " alt="" coords="369,152,437,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="364,30,380,78,398,138,393,139,375,79,359,32"/>
+<area shape="rect" id="Node000007" href="$clock-map_8h.html" title=" " alt="" coords="262,79,365,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="352,32,330,68,325,66,348,30"/>
+<area shape="rect" id="Node000014" href="$clock-sunpos_8h.html" title=" " alt="" coords="461,152,579,177"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="372,29,499,141,495,145,369,33"/>
+<area shape="rect" id="Node000015" href="$clock-marshallers_8h.html" title=" " alt="" coords="603,152,754,177"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="381,28,532,102,637,145,635,150,530,106,378,33"/>
+<area shape="poly" id="edge14_Node000007_Node000004" title=" " alt="" coords="289,106,194,149,192,144,287,102"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="329,102,379,141,376,145,326,106"/>
+<area shape="rect" id="Node000008" href="$clock-location_8h.html" title=" " alt="" coords="219,152,344,177"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="310,105,294,141,290,139,306,103"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="119,225,183,251"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="262,180,185,221,183,216,259,175"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="469,225,528,251"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="317,175,457,220,455,225,315,180"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="590,225,693,251"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="340,175,577,221,576,226,339,180"/>
+<area shape="rect" id="Node000012" href="$weather_8h.html" title=" " alt="" coords="207,225,401,251"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="288,177,299,211,294,213,283,178"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="215,299,393,324"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="307,251,307,285,301,285,301,251"/>
+<area shape="poly" id="edge16_Node000014_Node000010" title=" " alt="" coords="519,178,509,213,503,211,514,177"/>
+<area shape="poly" id="edge18_Node000015_Node000011" title=" " alt="" coords="675,179,656,215,651,212,670,176"/>
+</map>

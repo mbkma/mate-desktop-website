@@ -1,0 +1,29 @@
+<map id="CajaIconContainerDetails" name="CajaIconContainerDetails">
+<area shape="rect" id="Node000001" title=" " alt="" coords="450,909,637,935"/>
+<area shape="rect" id="Node000002" href="$structCajaIcon.html" title=" " alt="" coords="233,513,312,539"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,553,248,618,240,661,235,707,235,755,242,801,257,845,282,883,308,898,349,909,450,918,450,923,348,914,306,903,279,887,252,847,236,803,229,755,229,707,234,660,243,617,261,551"/>
+<area shape="rect" id="Node000003" href="$structCajaIconCanvasItem.html" title=" " alt="" coords="177,417,333,443"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,456,273,513,268,514,257,456"/>
+<area shape="rect" id="Node000004" href="$struct__EelCanvasItem.html" title=" " alt="" coords="552,241,679,267"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="538,262,453,273,417,281,393,293,382,304,376,316,372,341,368,368,363,382,352,395,332,410,310,420,308,415,329,405,348,391,358,379,363,366,367,340,371,314,378,301,390,289,415,276,452,267,538,257"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="656,236,689,237,701,243,705,254,699,266,684,272,664,273,642,269,643,264,664,268,683,267,696,262,700,254,697,247,688,242,656,241"/>
+<area shape="rect" id="Node000005" href="$struct__EelCanvas.html" title=" " alt="" coords="619,417,716,443"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="610,280,602,334,604,364,614,392,625,405,639,415,636,419,621,409,609,395,599,365,597,334,605,279"/>
+<area shape="rect" id="Node000008" href="$structCajaIconRubberbandInfo.html" title=" " alt="" coords="358,417,539,443"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="539,266,489,277,470,284,459,293,449,307,443,323,439,358,442,391,448,416,443,418,437,392,434,358,438,322,445,304,455,289,468,279,488,272,538,261"/>
+<area shape="rect" id="Node000011" href="$structCajaIconDndInfo.html" title=" " alt="" coords="792,417,921,443"/>
+<area shape="poly" id="edge15_Node000011_Node000004" title=" " alt="" coords="693,257,769,268,801,277,823,289,836,312,846,348,858,416,853,417,841,350,831,314,819,293,799,282,768,273,692,263"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="722,409,740,392,754,365,759,341,755,318,740,292,728,280,713,271,678,260,680,255,715,266,731,276,744,289,760,316,764,341,759,367,744,395,725,413"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,241,215,267"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="123,278,153,333,174,364,198,391,232,415,229,419,195,395,170,367,149,336,118,281"/>
+<area shape="rect" id="Node000007" href="$structEelIRect.html" title=" " alt="" coords="73,5,147,31"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="113,45,113,241,107,241,107,45"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="454,457,465,538,509,761,543,908,538,909,504,762,459,539,449,458"/>
+<area shape="rect" id="Node000009" href="$structEelDRect.html" title=" " alt="" coords="239,241,320,267"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="274,280,268,306,266,336,270,366,282,391,314,403,374,415,373,420,313,408,279,395,264,367,260,336,263,306,269,279"/>
+<area shape="rect" id="Node000010" href="$structStretchState.html" title=" " alt="" coords="588,513,691,539"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="636,552,549,910,544,909,631,551"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="860,457,858,540,853,596,843,657,826,719,802,781,769,838,726,887,712,896,690,904,637,914,636,909,689,898,709,891,723,883,765,835,797,779,821,718,837,655,848,595,853,540,855,457"/>
+<area shape="rect" id="Node000012" href="$structCajaDragInfo.html" title=" " alt="" coords="893,241,999,267"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="949,281,943,336,934,367,919,395,905,409,888,419,885,415,901,405,915,392,929,365,938,335,944,280"/>
+</map>

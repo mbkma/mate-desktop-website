@@ -1,0 +1,32 @@
+<map id="gsm&#45;app.c" name="gsm&#45;app.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="224,5,315,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,225,64,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,31,173,45,115,70,60,105,36,127,17,153,12,167,12,182,22,212,17,214,7,183,7,166,12,151,32,124,56,101,112,65,171,40,223,26"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="182,79,253,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,33,236,69,232,66,259,29"/>
+<area shape="rect" id="Node000004" href="$gsm-app_8h.html" title=" " alt="" coords="277,79,368,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="280,29,308,66,304,69,276,33"/>
+<area shape="rect" id="Node000012" href="$gsm-app-glue_8h.html" title=" " alt="" coords="590,152,714,177"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="301,28,610,145,608,150,299,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="410,299,513,324"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="329,103,355,168,376,209,401,249,438,288,434,292,397,252,371,212,350,170,324,105"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="225,225,321,251"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="322,105,300,178,286,213,281,211,295,176,317,104"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="155,152,285,177"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="308,106,250,146,247,142,305,102"/>
+<area shape="rect" id="Node000008" href="$gsm-manager_8h.html" title=" " alt="" coords="427,152,551,177"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="350,102,451,144,449,149,348,106"/>
+<area shape="rect" id="Node000011" href="$gsm-client_8h.html" title=" " alt="" coords="27,152,130,177"/>
+<area shape="poly" id="edge12_Node000004_Node000011" title=" " alt="" coords="284,107,132,151,130,146,283,101"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="502,176,523,210,528,230,525,252,511,274,493,292,489,288,507,271,520,250,523,231,518,212,498,179"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="587,225,717,251"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="517,175,614,217,612,222,514,180"/>
+<area shape="rect" id="Node000010" href="$gsm-store_8h.html" title=" " alt="" coords="411,225,511,251"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="487,179,473,214,468,212,482,177"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="464,251,464,285,459,285,459,251"/>
+<area shape="poly" id="edge13_Node000011_Node000002" title=" " alt="" coords="74,179,51,215,47,212,69,176"/>
+<area shape="poly" id="edge14_Node000011_Node000005" title=" " alt="" coords="95,175,146,211,214,248,261,265,309,279,397,298,396,303,308,284,259,270,212,253,143,216,92,180"/>
+<area shape="poly" id="edge15_Node000011_Node000006" title=" " alt="" coords="111,175,230,218,228,223,109,180"/>
+<area shape="poly" id="edge17_Node000012_Node000005" title=" " alt="" coords="677,175,701,190,723,208,736,229,736,241,730,252,717,264,697,274,645,289,585,300,527,307,526,302,584,295,644,284,695,269,714,259,726,249,731,240,731,231,719,212,698,194,674,180"/>
+<area shape="poly" id="edge18_Node000012_Node000009" title=" " alt="" coords="655,178,655,212,649,212,649,178"/>
+</map>

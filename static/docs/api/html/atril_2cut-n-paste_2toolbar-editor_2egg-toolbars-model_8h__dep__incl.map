@@ -1,0 +1,18 @@
+<map id="egg&#45;toolbars&#45;model.h" name="egg&#45;toolbars&#45;model.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="200,5,362,31"/>
+<area shape="rect" id="Node000002" href="$atril_2cut-n-paste_2toolbar-editor_2egg-editable-toolbar_8c.html" title=" " alt="" coords="16,152,181,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,30,82,49,40,63,14,80,9,90,9,99,22,118,46,136,72,150,70,154,43,140,18,122,4,101,4,89,10,77,37,58,81,44,185,25"/>
+<area shape="rect" id="Node000003" href="$atril_2cut-n-paste_2toolbar-editor_2egg-editable-toolbar_8h.html" title=" " alt="" coords="198,79,364,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="284,44,284,79,278,79,278,44"/>
+<area shape="rect" id="Node000005" href="$atril_2cut-n-paste_2toolbar-editor_2egg-toolbar-editor_8h.html" title=" " alt="" coords="23,79,174,104"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="240,38,129,81,127,76,238,33"/>
+<area shape="rect" id="Node000006" href="$atril_2cut-n-paste_2toolbar-editor_2egg-toolbars-model_8c.html" title=" " alt="" coords="388,79,550,104"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="325,33,439,76,437,81,323,38"/>
+<area shape="rect" id="Node000007" href="$eggtypebuiltins_8c.html" title=" " alt="" coords="574,79,708,104"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="353,31,583,76,582,81,352,36"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="240,111,129,154,127,149,238,106"/>
+<area shape="rect" id="Node000004" href="$atril_2cut-n-paste_2toolbar-editor_2egg-toolbar-editor_8c.html" title=" " alt="" coords="206,152,356,177"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="284,118,284,152,278,152,278,118"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="101,118,101,152,96,152,96,118"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="141,106,252,149,250,154,139,111"/>
+</map>
