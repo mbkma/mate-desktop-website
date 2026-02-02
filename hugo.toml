@@ -124,9 +124,14 @@ summaryLength = 50
     pageRef = '/community'
     weight = 5
   [[menu.main]]
+    identifier = 'releases'
+    name = 'Releases'
+    pageRef = '/releases'
+    weight = 6
+  [[menu.main]]
     identifier = 'search'
     name = 'Search'
-    weight = 6
+    weight = 8
     [menu.main.params]
       type = 'search'
   [[menu.main]]
